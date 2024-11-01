@@ -1,0 +1,4974 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weight Loss Tracker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-24 21:23+0100\n"
+"PO-Revision-Date: 2022-10-24 21:23+0100\n"
+"Last-Translator: Роман <yanshevroman@yandex.ru>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n"
+"%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: .idea\n"
+
+#: admin-pages/awards/page-awards-add-update.php:98
+#, fuzzy
+#| msgid "Add / Edit an entry"
+msgid "Add / Edit an Award"
+msgstr "Добавить / Изменить данные"
+
+#: admin-pages/awards/page-awards-add-update.php:102
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:69
+msgid "Please complete all mandatory fields."
+msgstr "Пожалуйста, введите корректную дату."
+
+#: admin-pages/awards/page-awards-add-update.php:110
+msgid "Title"
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:119
+msgid "Award Type"
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:132
+msgid ""
+"Awards are decided by comparing the difference between the user's latest "
+"weight and their starting weight."
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:140
+msgid "Gain or Loss"
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:145
+msgid "Increase in value"
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:146
+msgid "Decrease in value"
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:148
+msgid ""
+"For example, if you wish to award someone for losing 10Kg, you would select "
+"\"Decrease in value\"."
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:153
+#, fuzzy
+#| msgid "Weight Difference"
+msgid "Weight difference"
+msgstr "Разница в весе"
+
+#: admin-pages/awards/page-awards-add-update.php:174
+msgid "Stones"
+msgstr "Стоуны"
+
+#: admin-pages/awards/page-awards-add-update.php:176
+#: admin-pages/awards/page-awards-add-update.php:187
+#: admin-pages/settings/page-settings-generic.php:110 functions.php:1458
+msgid "Pounds"
+msgstr "Фунты"
+
+#: admin-pages/awards/page-awards-add-update.php:192 core-charting.php:100
+#: core-charting.php:283 core-tables.php:34
+msgid "Weight"
+msgstr "Вес"
+
+#: admin-pages/awards/page-awards-add-update.php:192
+#: admin-pages/awards/page-awards-add-update.php:193
+#: admin-pages/settings/page-settings-generic.php:108 converters.php:120
+#: core-charting.php:73 core-forms.php:212
+msgid "kg"
+msgstr "кг"
+
+#: admin-pages/awards/page-awards-add-update.php:196
+msgid "The difference in weight from the starting weight."
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:201
+msgid "BMI Equals"
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:219
+#, fuzzy
+#| msgid "Gain weight"
+msgid "Percentage from starting weight"
+msgstr "Набрать вес"
+
+#: admin-pages/awards/page-awards-add-update.php:226
+msgid "Specify the percentage difference from the starting weight."
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:231
+msgid "Award Badge"
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:244
+msgid "Custom Message"
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:248
+msgid ""
+"Add a custom message to be inserted into the email. Replaces the "
+"{custom_message} within the email template."
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:253
+msgid "URL"
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:257
+msgid ""
+"If specified, badges and award title will click through to the given URL."
+msgstr ""
+
+#: admin-pages/awards/page-awards-add-update.php:262
+#, fuzzy
+#| msgid "All entries"
+msgid "Apply to new entries?"
+msgstr "Все данные"
+
+#: admin-pages/awards/page-awards-add-update.php:267
+#: admin-pages/awards/page-awards-add-update.php:280
+#: admin-pages/awards/page-awards-add-update.php:293
+#: admin-pages/awards/page-awards-add-update.php:306
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:109
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:122
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:191
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:242
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:306
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:318
+#: admin-pages/settings/page-settings-generic.php:95
+#: admin-pages/settings/page-settings-generic.php:147
+#: admin-pages/settings/page-settings-generic.php:160
+#: admin-pages/settings/page-settings-generic.php:174
+#: admin-pages/settings/page-settings-generic.php:188
+#: admin-pages/settings/page-settings-generic.php:200
+#: admin-pages/settings/page-settings-generic.php:213
+#: admin-pages/settings/page-settings-generic.php:226
+#: admin-pages/settings/page-settings-generic.php:242
+#: admin-pages/settings/page-settings-generic.php:287
+#: admin-pages/settings/page-settings-generic.php:336
+#: admin-pages/settings/page-settings-generic.php:367
+#: admin-pages/settings/page-settings-generic.php:379
+#: admin-pages/settings/page-settings-generic.php:396
+#: admin-pages/settings/page-settings-generic.php:420
+#: admin-pages/settings/page-settings-generic.php:569
+#: admin-pages/settings/page-settings-generic.php:753
+#: admin-pages/settings/page-settings-generic.php:848
+#: admin-pages/settings/page-settings-generic.php:884
+#: admin-pages/settings/page-settings-generic.php:942
+#: admin-pages/settings/page-settings-generic.php:963
+#: admin-pages/settings/page-settings-generic.php:976
+#: admin-pages/settings/page-settings-generic.php:989
+#: admin-pages/settings/page-settings-generic.php:1002
+#: admin-pages/settings/page-settings-generic.php:1015
+#: admin-pages/settings/page-settings-generic.php:1048
+#: admin-pages/settings/page-settings-generic.php:1079
+#: admin-pages/settings/page-settings-generic.php:1092
+#: admin-pages/settings/page-settings-generic.php:1105
+#: admin-pages/settings/page-settings-generic.php:1124 functions.php:1339
+msgid "Yes"
+msgstr "Да"
+
+#: admin-pages/awards/page-awards-add-update.php:268
+#: admin-pages/awards/page-awards-add-update.php:281
+#: admin-pages/awards/page-awards-add-update.php:294
+#: admin-pages/awards/page-awards-add-update.php:305
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:108
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:121
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:190
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:241
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:305
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:317
+#: admin-pages/settings/page-settings-generic.php:96
+#: admin-pages/settings/page-settings-generic.php:148
+#: admin-pages/settings/page-settings-generic.php:161
+#: admin-pages/settings/page-settings-generic.php:173
+#: admin-pages/settings/page-settings-generic.php:187
+#: admin-pages/settings/page-settings-generic.php:201
+#: admin-pages/settings/page-settings-generic.php:214
+#: admin-pages/settings/page-settings-generic.php:227
+#: admin-pages/settings/page-settings-generic.php:243
+#: admin-pages/settings/page-settings-generic.php:288
+#: admin-pages/settings/page-settings-generic.php:337
+#: admin-pages/settings/page-settings-generic.php:366
+#: admin-pages/settings/page-settings-generic.php:378
+#: admin-pages/settings/page-settings-generic.php:395
+#: admin-pages/settings/page-settings-generic.php:421
+#: admin-pages/settings/page-settings-generic.php:568
+#: admin-pages/settings/page-settings-generic.php:754
+#: admin-pages/settings/page-settings-generic.php:849
+#: admin-pages/settings/page-settings-generic.php:883
+#: admin-pages/settings/page-settings-generic.php:941
+#: admin-pages/settings/page-settings-generic.php:964
+#: admin-pages/settings/page-settings-generic.php:977
+#: admin-pages/settings/page-settings-generic.php:990
+#: admin-pages/settings/page-settings-generic.php:1003
+#: admin-pages/settings/page-settings-generic.php:1016
+#: admin-pages/settings/page-settings-generic.php:1049
+#: admin-pages/settings/page-settings-generic.php:1080
+#: admin-pages/settings/page-settings-generic.php:1093
+#: admin-pages/settings/page-settings-generic.php:1106
+#: admin-pages/settings/page-settings-generic.php:1123 functions.php:1339
+msgid "No"
+msgstr "Нет"
+
+#: admin-pages/awards/page-awards-add-update.php:270
+#, fuzzy
+#| msgid ""
+#| "Receive notifications when a member adds a new weight / measurement entry."
+msgid "Can the award be given when a user adds a new weight entry?."
+msgstr ""
+"Получать уведомления, когда пользователь добавляет новую запись веса / "
+"измерения."
+
+#: admin-pages/awards/page-awards-add-update.php:275
+#, fuzzy
+#| msgid "New / updated targets"
+msgid "Apply to updated entries?"
+msgstr "Новые / обновленные цели"
+
+#: admin-pages/awards/page-awards-add-update.php:283
+#, fuzzy
+#| msgid ""
+#| "Receive notifications when a member edits an existing weight / "
+#| "measurement entry."
+msgid "Can the award be given when a user updates an existing weight entry?."
+msgstr ""
+"Получать уведомления, когда участник редактирует существующую запись веса / "
+"измерения."
+
+#: admin-pages/awards/page-awards-add-update.php:288
+#, fuzzy
+#| msgid "Email"
+msgid "Send Email"
+msgstr "Emai"
+
+#: admin-pages/awards/page-awards-add-update.php:300
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:312
+#: admin-pages/settings/page-settings-generic.php:281
+#: admin-pages/settings/page-settings-generic.php:544
+#: admin-pages/settings/page-settings-generic.php:646
+#: admin-pages/settings/page-settings-generic.php:1042
+msgid "Enabled"
+msgstr "Включить"
+
+#: admin-pages/awards/page-awards-add-update.php:313
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:325
+#: core-forms.php:246
+msgid "Cancel"
+msgstr "Отмена"
+
+#: admin-pages/awards/page-awards-add-update.php:316
+#: admin-pages/awards/page-awards-add-update.php:318
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:326
+#: admin-pages/settings/page-settings-email-manager.php:128
+msgid "Save"
+msgstr "Сохранено!"
+
+#: admin-pages/awards/page-awards-list.php:34
+#: admin-pages/user-data/data-user.php:246
+#: admin-pages/user-data/data-user.php:276 hooks.php:18 shortcode-wt.php:565
+msgid "Awards"
+msgstr ""
+
+#: admin-pages/awards/page-awards-list.php:40
+msgid "Issue awards to your user's for meeting certain goals."
+msgstr ""
+
+#: admin-pages/awards/page-awards-list.php:41
+#, fuzzy
+#| msgid "Read more at "
+msgid "Read more about Awards"
+msgstr "Подробнее на"
+
+#: admin-pages/awards/page-awards-list.php:44
+#, fuzzy
+#| msgid "Stats disabled"
+msgid "Emails Disabled"
+msgstr "Статистика отключена"
+
+#: admin-pages/awards/page-awards-list.php:44
+msgid ""
+"Emails will not be sent for email enabled awards. This allows you to test "
+"awards without emails being sent. Use the button to the right enable them"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:65
+msgid "Add / Edit a Custom Field"
+msgstr "Добавить / Изменить данные"
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:77
+msgid "Field Type"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:97
+msgid "Note: Changing the field type will cause existing user data to be lost."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:103
+msgid "Hide from shortcodes"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:111
+msgid ""
+"Note: If set to Yes, photos uploaded into this custom field cannot be used "
+"in shortcodes i.e. the photos will only be visible to admin. However, the "
+"photo fields can appear in forms."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:116
+msgid "Show on charts?"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:124
+msgid ""
+"Note: If set to Yes, this custom field will also be plotted on graphs. If "
+"the custom field is a radio button, ensure all values are numeric."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:129
+msgid "Line colour on graph"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:136
+#, fuzzy
+#| msgid "Enter a HEX colour code to use for text displayed on the graph."
+msgid "Note: The HEX colour to use for the line when plotting on a graph."
+msgstr "Введите HEX цвет для текста, отображаемого на графике."
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:141
+#: admin-pages/settings/page-settings-generic.php:829
+msgid "Field / Question"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:149
+msgid "Minimum value"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:156
+msgid "Specifies the lowest number on the range slider."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:161
+msgid "Maximum value"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:168
+msgid "Specifies the maximum number on the range slider."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:173
+msgid "Step"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:180
+msgid "Specifies the steps between points on the slider."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:185
+#, fuzzy
+#| msgid "Show all entries"
+msgid "Show all labels"
+msgstr "Показать все данные"
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:193
+msgid ""
+"Note: If set to Yes, all labels shall be displayed on the slider. If no, "
+"only the start and finish."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:198
+#, fuzzy
+#| msgid "Add or Update License"
+msgid "Add options"
+msgstr "Добавить или обновить лицензию"
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:204
+msgid "Value (visible to admin/export)"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:205
+msgid "Label (visible to user)"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:230
+#: admin-pages/settings/page-settings-generic.php:554
+#: admin-pages/settings/page-settings-generic.php:656
+msgid "Show more rows"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:231
+msgid ""
+"Please note, editing values to existing fields shall cause the user "
+"selection to be lost."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:236
+msgid "Include empty option"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:244
+msgid ""
+"If yes, a blank option shall be added at the top of the drop down options."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:249
+#: admin-pages/settings/page-settings-generic.php:828
+msgid "Abbreviation"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:253
+msgid ""
+"Used when displaying the field data in smaller spaces e.g. table headers, "
+"charts, etc"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:258
+msgid "Suffix"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:262
+msgid ""
+"Text display at to end of the entered value when displaying it to the user. "
+"e.g. CM would display in the following manner: 120 CM"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:267
+#: components.php:79
+#, fuzzy
+#| msgid "Enable Gravity Forms"
+msgid "Group"
+msgstr "Включить гравитационные формы"
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:277
+#, fuzzy
+#| msgid "Add a new weight"
+msgid "Add / remove Groups"
+msgstr "Добавьте новый вес"
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:279
+msgid ""
+"Used to group custom fields together. This gives the ability to specify "
+"which groups of fields should appear on forms and charts."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:284
+msgid "Display Order"
+msgstr "Отображать сетку?"
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:295
+msgid ""
+"Used to specify the order of custom fields. Lower numbers are displayed "
+"higher up the form."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-add-update.php:300
+msgid "Mandatory"
+msgstr "Обязательно"
+
+#: admin-pages/meta-fields/page-meta-fields-groups.php:23
+#, fuzzy
+#| msgid "Manage User Data"
+msgid "Manage Custom Field Groups"
+msgstr "Управление данными пользователей"
+
+#: admin-pages/meta-fields/page-meta-fields-groups.php:26
+msgid ""
+"Assign your custom fields to groups - this will allow you to display certain "
+"groups of custom fields on forms and charts."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-groups.php:27
+#: admin-pages/meta-fields/page-meta-fields-list.php:29
+msgid "Read more about Custom Fields"
+msgstr "Подробнее о рассчетах"
+
+#: admin-pages/meta-fields/page-meta-fields-groups.php:30
+#, fuzzy
+#| msgid "Add a new weight"
+msgid "Add a new custom field group"
+msgstr "Добавьте новый вес"
+
+#: admin-pages/meta-fields/page-meta-fields-groups.php:45
+#, fuzzy
+#| msgid "Existing photo"
+msgid "Existing custom field groups"
+msgstr "Существующие фотографии"
+
+#: admin-pages/meta-fields/page-meta-fields-list.php:23 hooks.php:17
+msgid "Custom Fields"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-list.php:26
+msgid ""
+"Custom Fields allows you to ask your user's additional questions when adding "
+"a weight entry.\n"
+"                                                        For example, you may "
+"wish to ask them how many cups of water they drank today or perhaps how they "
+"are feeling.\n"
+"                                                            You can use the "
+"following screen to add as many questions as you wish."
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-list.php:43
+#: admin-pages/settings/page-settings-groups.php:42
+msgid "Add"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-list.php:45
+msgid "field"
+msgstr ""
+
+#: admin-pages/meta-fields/page-meta-fields-list.php:50
+#, fuzzy
+#| msgid "Add a new weight"
+msgid "Add / remove groups"
+msgstr "Добавьте новый вес"
+
+#: admin-pages/page-help.php:24
+msgid "Custom modifications / web development"
+msgstr ""
+
+#: admin-pages/page-help.php:31 admin-pages/page-setup-wizard.php:30
+msgid "Meal Tracker"
+msgstr ""
+
+#: admin-pages/page-help.php:38
+msgid "Documentation and Release notes"
+msgstr ""
+
+#: admin-pages/page-help.php:40
+msgid "You can find detailed documentation for this plugin at our site:"
+msgstr "Подробную справку об этом плагине вы можете найти на нашем сайте:"
+
+#: admin-pages/page-help.php:42
+#, fuzzy
+#| msgid "Documentation"
+msgid "View Documentation"
+msgstr "Документация"
+
+#: admin-pages/page-help.php:43
+msgid "Release Notes"
+msgstr ""
+
+#: admin-pages/page-help.php:51
+msgid "Custom Fields: Migrate photos from old system to Custom Fields"
+msgstr ""
+
+#: admin-pages/page-help.php:53
+msgid ""
+"This will migrate photos from the old system to the new custom fields. It "
+"will create a custom field with the key \"photo\". Note! It will remove any "
+"existing migrated photos before re-adding them."
+msgstr ""
+
+#: admin-pages/page-help.php:76
+msgid "Done. View Log below for further information."
+msgstr ""
+
+#: admin-pages/page-help.php:85
+msgid "Custom Fields: Migrate measurements from old system to Custom Fields"
+msgstr ""
+
+#: admin-pages/page-help.php:87
+msgid ""
+"This will migrate enabled measurement fields and data across to Custom "
+"Fields."
+msgstr ""
+
+#: admin-pages/page-help.php:99
+#, fuzzy
+#| msgid "Tools"
+msgid "Admin Tools"
+msgstr "Инструменты"
+
+#: admin-pages/page-help.php:108
+msgid "Show Setup Wizard link"
+msgstr ""
+
+#: admin-pages/page-help.php:118 admin-pages/page-help.php:132 core.php:81
+msgid "Done"
+msgstr "Выбрать"
+
+#: admin-pages/page-help.php:123
+msgid "Delete all issued awards"
+msgstr ""
+
+#: admin-pages/page-help.php:137
+#, fuzzy
+#| msgid "View all entries"
+msgid "Delete all log entries"
+msgstr "Посмотреть все данные"
+
+#: admin-pages/page-help.php:145
+msgid "Weight Tracker Debug Log"
+msgstr "Weight Tracker Рекорд"
+
+#: admin-pages/page-help.php:148
+msgid ""
+"Below is a list of the debug information logged by the Weight Tracker plugin "
+"over the last 31 days."
+msgstr ""
+
+#: admin-pages/page-help.php:168 admin-pages/page-help.php:172
+#, fuzzy
+#| msgid "Are you sure you?"
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: admin-pages/page-help.php:169
+#, fuzzy
+#| msgid "Are you sure you wish to remove all user data?"
+msgid "Are you sure you wish to remove all issued awards?"
+msgstr "Вы уверены, что хотите удалить все пользовательские данные?"
+
+#: admin-pages/page-help.php:173
+#, fuzzy
+#| msgid "Are you sure you wish to clear your target weight?"
+msgid "Are you sure you wish to clear all log entries?"
+msgstr "Вы уверены, что хотите стереть свой желаемый вес?"
+
+#: admin-pages/page-license.php:8
+#: admin-pages/settings/page-settings-email-manager.php:8
+#: admin-pages/settings/page-settings-generic.php:8
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У Вас недостаточно прав для доступа к этой странице."
+
+#: admin-pages/page-license.php:34
+msgid "Your license has been applied!"
+msgstr "Ваша лицензия принята!"
+
+#: admin-pages/page-license.php:37
+msgid "An error occurred applying your license: "
+msgstr "Произошла ошибка с Вашей лицензией:"
+
+#: admin-pages/page-license.php:67 hooks.php:24
+msgid "Upgrade"
+msgstr "Обновить"
+
+#: admin-pages/page-license.php:72
+msgid "As you can see from the features listed below, the"
+msgstr "Как Вы можете видеть из перечисленных ниже функций, "
+
+#: admin-pages/page-license.php:74
+msgid ""
+"can offer you and your members a lot more features to help you and them "
+"manage their weight. There are two types of License that you can purchase, "
+"Pro and Pro Plus. Pro contains an enriched feature set and user experience "
+"and is a must! Pro Plus extends Pro with features such as BMR, Calorie "
+"intake, Macronutrient Calculator, etc."
+msgstr ""
+"может предложить вам и вашим членам намного больше возможностей, чтобы "
+"помочь вам и им управлять своим весом. Существует два типа лицензий, которые "
+"вы можете приобрести, Pro и Pro Plus. Pro содержит расширенный набор функций "
+"и пользовательский интерфейс и является обязательным! Pro Plus расширяет Pro "
+"с такими функциями, как ИМТ, потребление калорий, калькулятор нутриентов и "
+"т. д."
+
+#: admin-pages/page-license.php:75
+msgid ""
+"Of course, by purchasing a license, you are supporting the future of this "
+"plugin and it is gratefully appreciated."
+msgstr ""
+"Конечно, покупая лицензию, вы поддерживаете будущее этого плагина, и я очень "
+"благодарен вам за это."
+
+#: admin-pages/page-license.php:80
+msgid ""
+"Of course, a big thank you purchasing a Pro license at some point - it is "
+"much appreciated. As you can see below, you can further expand the features "
+"of"
+msgstr ""
+"Большое спасибо за покупку лицензии Pro - это очень ценно для меня. Как вы "
+"можете видеть ниже, вы можете расширить функции"
+
+#: admin-pages/page-license.php:82
+msgid ""
+"by extending your license to Pro Plus. Pro Plus extends Pro with features "
+"such as BMR, Calorie intake, Macronutrient Calculator, etc. You can view the "
+"additional features that Pro Plus offers you below."
+msgstr ""
+"Расширение лицензии до Pro Plus. Pro Plus дополняет Pro такими функциями, "
+"как ИМТ, потребление калорий, калькулятор нутриентов и т. Д. Вы можете "
+"просмотреть дополнительные функции, которые есть в Pro Plus ниже."
+
+#: admin-pages/page-license.php:88
+msgid ""
+"Thank you kind soul, you have purchased a Pro Plus license. A huge thank you "
+"for supporting me and this plugin!"
+msgstr ""
+"Спасибо, хороший человек, вы приобрели лицензию Pro Plus. Огромное спасибо "
+"за поддержку этого плагина!"
+
+#: admin-pages/page-license.php:95
+msgid "In case you need, your <strong>Site Hash</strong> is"
+msgstr "На всякий случай, <strong>Хэш вашего сайта</strong>"
+
+#: admin-pages/page-license.php:105
+msgid "Get a free 7 day trial!"
+msgstr "Попробуй 7 дней бесплатно!"
+
+#: admin-pages/page-license.php:112
+msgid "Upgrade to Pro Plus for"
+msgstr "Обновить до Pro Plus для"
+
+#: admin-pages/page-license.php:112 admin-pages/page-license.php:225
+#: admin-pages/page-license.php:239
+msgid "a year"
+msgstr "год"
+
+#: admin-pages/page-license.php:125
+msgid "Upgrade to Pro for "
+msgstr "Обновить до Pro для"
+
+#: admin-pages/page-license.php:125
+msgid " a year"
+msgstr "год"
+
+#: admin-pages/page-license.php:140
+msgid "Add or Update License"
+msgstr "Добавить или обновить лицензию"
+
+#: admin-pages/page-license.php:145
+msgid ""
+"Copy and paste the license given to you by YeKen into this box and click "
+"\"Apply License\""
+msgstr ""
+"Скопируйте и вставьте лицензию, предоставленную вам от YeKen в это поле, и "
+"нажмите «Применить лицензию»,"
+
+#: admin-pages/page-license.php:148
+msgid "Apply License"
+msgstr "Подтвердить лицензию"
+
+#: admin-pages/page-license.php:153
+msgid "Your License Information"
+msgstr "Информация о вашей лицензии"
+
+#: admin-pages/page-license.php:157
+msgid "Site Hash"
+msgstr "Хэш сайта"
+
+#: admin-pages/page-license.php:161
+msgid "Type"
+msgstr "Тип"
+
+#: admin-pages/page-license.php:165
+msgid "Expires"
+msgstr "Истекает"
+
+#: admin-pages/page-license.php:172 components.php:287
+msgid "n/a"
+msgstr "н/д"
+
+#: admin-pages/page-license.php:182
+msgid "Your Existing License"
+msgstr "Активные лицензии"
+
+#: admin-pages/page-license.php:188
+msgid "Remove License"
+msgstr "Удалить лицензию"
+
+#: admin-pages/page-license.php:197
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin-pages/page-license.php:200
+msgid "Need further help or information, please visit our documentation site:"
+msgstr ""
+"Нужна дополнительная помощь или информация, пожалуйста, посетите наш сайт и "
+"ознакомьтесь с документацией:"
+
+#: admin-pages/page-license.php:213
+#, php-format
+msgid "50% off - When upgrading from Pro to Pro Plus"
+msgstr ""
+
+#: admin-pages/page-license.php:221
+msgid "Pro Plus Features"
+msgstr "Pro Plus лицензия"
+
+#: admin-pages/page-license.php:225
+msgid "Below is a list of the intended features of the Pro Plus version"
+msgstr "Ниже представлен список возможностей версии Pro Plus"
+
+#: admin-pages/page-license.php:225 admin-pages/page-license.php:239
+msgid "You can upgrade for"
+msgstr "Вы можете обновить до"
+
+#: admin-pages/page-license.php:234
+msgid "Pro Features"
+msgstr "Pro Plus"
+
+#: admin-pages/page-license.php:239
+msgid "Below is a list of the intended features of the Pro version"
+msgstr "Ниже представлен список возможностей версии Pro"
+
+#: admin-pages/page-license.php:253 admin-pages/user-data/data-summary.php:74
+#: admin-pages/user-data/data-user.php:266
+msgid "Are you sure you?"
+msgstr "Вы уверены?"
+
+#: admin-pages/page-license.php:254
+msgid ""
+"Are you sure you wish to remove the license for this site? Removing it may "
+"cause your user's to lose functionality."
+msgstr ""
+"Вы уверены, что хотите удалить лицензию для этого сайта? Удаление может "
+"привести к ограничению функциональности."
+
+#: admin-pages/page-setup-wizard.php:22 hooks.php:31
+msgid "Setup Wizard"
+msgstr ""
+
+#: admin-pages/page-setup-wizard.php:26
+msgid "Introduction"
+msgstr ""
+
+#: admin-pages/page-setup-wizard.php:26
+msgid "Thank you for using Weight Tracker"
+msgstr ""
+
+#: admin-pages/page-setup-wizard.php:27
+msgid "Setup"
+msgstr ""
+
+#: admin-pages/page-setup-wizard.php:27
+msgid "How to use Shortcodes and Widgets"
+msgstr ""
+
+#: admin-pages/page-setup-wizard.php:28
+msgid "Admin Interface"
+msgstr ""
+
+#: admin-pages/page-setup-wizard.php:28
+#, fuzzy
+#| msgid "Looking to view and manipulate your user's data?"
+msgid "Viewing and interacting with your user's data"
+msgstr "Хотите просмотреть и обработать данные пользователя?"
+
+#: admin-pages/page-setup-wizard.php:29
+msgid "Features and Guides"
+msgstr ""
+
+#: admin-pages/page-setup-wizard.php:29
+msgid "Useful features and guides"
+msgstr ""
+
+#: admin-pages/page-setup-wizard.php:30
+msgid "Track meals and calories too"
+msgstr ""
+
+#: admin-pages/page-setup-wizard.php:31
+msgid "Customisations"
+msgstr ""
+
+#: admin-pages/page-setup-wizard.php:31
+msgid "Custom modifications to Weight Tracker"
+msgstr ""
+
+#: admin-pages/settings/page-settings-email-manager.php:27
+msgid "Email Manager"
+msgstr ""
+
+#: admin-pages/settings/page-settings-email-manager.php:39
+#, fuzzy
+#| msgid "There was an issue loading this page"
+msgid "There was an error saving your changes."
+msgstr "При загрузке этой странице возникла проблема."
+
+#: admin-pages/settings/page-settings-email-manager.php:41
+#, fuzzy
+#| msgid "Your weight history has been deleted!"
+msgid "Email template has been updated."
+msgstr "Выша история веса была удалена!"
+
+#: admin-pages/settings/page-settings-email-manager.php:86
+msgid "No email templates were found in the database."
+msgstr ""
+
+#: admin-pages/settings/page-settings-email-manager.php:89
+msgid "Select an email to edit"
+msgstr ""
+
+#: admin-pages/settings/page-settings-email-manager.php:110
+#, fuzzy
+#| msgid "An error occurred while saving your data!"
+msgid "An error occurred loading the email template"
+msgstr "Произошла ошибка при сохранении ваших данных!"
+
+#: admin-pages/settings/page-settings-email-manager.php:121
+msgid "Subject"
+msgstr ""
+
+#: admin-pages/settings/page-settings-email-manager.php:126
+msgid "Body"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:41
+msgid "Rebuild them now"
+msgstr "Восстановить сейчас"
+
+#: admin-pages/settings/page-settings-generic.php:63
+msgid " Settings"
+msgstr "Настройки"
+
+#: admin-pages/settings/page-settings-generic.php:76
+msgid "General"
+msgstr "Главная"
+
+#: admin-pages/settings/page-settings-generic.php:76
+msgid "General settings"
+msgstr "Основные настройки"
+
+#: admin-pages/settings/page-settings-generic.php:77
+#, fuzzy
+#| msgid "Male Calorie Cap"
+msgid "Macros & Calories"
+msgstr "Максимальная мужская калорийность"
+
+#: admin-pages/settings/page-settings-generic.php:77
+#, fuzzy
+#| msgid "Adjust settings for your Pro Plus features"
+msgid "Adjust settings for macronutrients and calories"
+msgstr "Настройки ваших функций Pro Plus"
+
+#: admin-pages/settings/page-settings-generic.php:78
+#: admin-pages/user-data/data-user.php:102
+msgid "Chart"
+msgstr "Диаграмма"
+
+#: admin-pages/settings/page-settings-generic.php:78
+msgid "Chart styling and config"
+msgstr "Уникальный дизайн и конфигурация"
+
+#: admin-pages/settings/page-settings-generic.php:79
+#, fuzzy
+#| msgid "Enable email notifications"
+msgid "Emails & Notifications"
+msgstr "Включить оповещения"
+
+#: admin-pages/settings/page-settings-generic.php:79
+#, fuzzy
+#| msgid "Configure email notifications"
+msgid "Configure email notifications and templates"
+msgstr "Настройка уведомлений по эл. почте"
+
+#: admin-pages/settings/page-settings-generic.php:80
+#, fuzzy
+#| msgid "3rd Party Integrations"
+msgid "Integrations"
+msgstr "Интеграция сторонних сервисов"
+
+#: admin-pages/settings/page-settings-generic.php:80
+#, fuzzy
+#| msgid "3rd Party Integrations"
+msgid "3rd party integrations and webhooks"
+msgstr "Интеграция сторонних сервисов"
+
+#: admin-pages/settings/page-settings-generic.php:89
+msgid "Caching"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:92
+msgid "Enable Caching?"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:98
+msgid ""
+"If enabled, additional caching will be performed to reduce database queries. "
+"It is highly recommended that this remains enabled and only disabled for "
+"testing or to enable other caching mechanisms."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:102
+msgid "Default units / formats to be used by plugin"
+msgstr "Единицы измерения по умолчанию"
+
+#: admin-pages/settings/page-settings-generic.php:105
+msgid "Weight Units"
+msgstr "Единица веса"
+
+#: admin-pages/settings/page-settings-generic.php:109 functions.php:1458
+msgid "Stones & Pounds"
+msgstr "Стоуны и фунты"
+
+#: admin-pages/settings/page-settings-generic.php:112
+#, fuzzy
+#| msgid ""
+#| "You can specify whether to display weights in Kg, Stones & Pounds or just "
+#| "Pounds. Please note: The graph will be displayed in Pounds if \"Stones & "
+#| "Pounds\" is selected."
+msgid ""
+"You can specify whether to display weights in Kg, Stones & Pounds or just "
+"Pounds. Please note: The chart will be displayed in Pounds if \"Stones & "
+"Pounds\" is selected."
+msgstr ""
+"Вы можете указать, показывать ли вес в Килограммах, Стоунах и Фунтах или "
+"только в Фунтах. Обратите внимание: график будет отображаться в фунтах, если "
+"выбрано «Стоуны и фунты»."
+
+#: admin-pages/settings/page-settings-generic.php:116
+msgid "UK or US Date format?"
+msgstr "Британский или Американский формат даты?"
+
+#: admin-pages/settings/page-settings-generic.php:119
+msgid "UK (DD/MM/YYYY)"
+msgstr "Британский (DD/MM/YYYY)"
+
+#: admin-pages/settings/page-settings-generic.php:120
+msgid "US (MM/DD/YYYY)"
+msgstr "Американский (MM/DD/YYYY)"
+
+#: admin-pages/settings/page-settings-generic.php:122
+msgid "Specify what format dates should be displayed in (i.e. UK or US format)"
+msgstr ""
+"Укажите, какие даты формата должны отображаться (например, Британский или "
+"Американский)"
+
+#: admin-pages/settings/page-settings-generic.php:126
+#, fuzzy
+#| msgid "User Experience"
+msgid "User experience"
+msgstr "Данные пользователя"
+
+#: admin-pages/settings/page-settings-generic.php:129
+#, fuzzy
+#| msgid "Server Default"
+msgid "Set default aim?"
+msgstr "Сервер по умолчанию"
+
+#: admin-pages/settings/page-settings-generic.php:137
+msgid ""
+"If enabled, you can specify the default aim when a user has not selected one."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:141
+msgid "Allow target weights?"
+msgstr "Разрешить устанавливать желаемый вес?"
+
+#: admin-pages/settings/page-settings-generic.php:150
+msgid ""
+"If enabled, a user is allowed to enter a target weight. This will be "
+"displayed as a horizontal bar on the line chart."
+msgstr ""
+"Если включено, пользователю разрешено будет вводить желаемый вес. Это будет "
+"отображаться в виде горизонтальной полосы на линейной диаграмме."
+
+#: admin-pages/settings/page-settings-generic.php:154
+msgid "Display BMI in tables?"
+msgstr "Отображать ИМТ в таблицах?"
+
+#: admin-pages/settings/page-settings-generic.php:163
+msgid ""
+"If enabled, BMI values will be displayed alongside weight entries in data "
+"tables."
+msgstr ""
+"Если включено, значения БОВ будут отображаться вместе с записями веса в "
+"таблицах данных."
+
+#: admin-pages/settings/page-settings-generic.php:167
+msgid "Allow user settings"
+msgstr "Разрешить настройки пользователя"
+
+#: admin-pages/settings/page-settings-generic.php:177
+msgid ""
+"Allow your users to select their own data units, complete their \"About You"
+"\" fields and remove all their data."
+msgstr ""
+"Разрешите пользователям выбирать свои собственные блоки данных, заполнять "
+"поля «О вас» и удалять все их данные."
+
+#: admin-pages/settings/page-settings-generic.php:181
+msgid "\"About You\" fields mandatory?"
+msgstr "Обязательное поле «О вас»?"
+
+#: admin-pages/settings/page-settings-generic.php:190
+msgid ""
+"If User Settings is enabled, should all the \"About You\" (height, activity "
+"level, etc) be mandatory?"
+msgstr ""
+"Если параметры пользователя включены, должны ли все данные «О вас» (высота, "
+"уровень активности и т. Д.) быть обязательными?"
+
+#: admin-pages/settings/page-settings-generic.php:194
+#, fuzzy
+#| msgid "Allow users to record their measurements"
+msgid "Allow users to add notes for weight entries?"
+msgstr "Разрешить пользователям записывать свои измерения"
+
+#: admin-pages/settings/page-settings-generic.php:203
+#, fuzzy
+#| msgid ""
+#| "If enabled, a user can also add body measurements along with their "
+#| "weights."
+msgid "If enabled, users can add notes against weight entries."
+msgstr ""
+"Если включено, пользователь сможет добавлять измерения тела вместе со своими "
+"данными веса."
+
+#: admin-pages/settings/page-settings-generic.php:207
+#, fuzzy
+#| msgid "Display points on graph?"
+msgid "Display previous entry on form?"
+msgstr "Показывать точки на графике?"
+
+#: admin-pages/settings/page-settings-generic.php:216
+msgid ""
+"If enabled, when adding a new weight entry, the previous weight entries "
+"values will be added as field placeholders to show the user the values "
+"previously entered."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:220
+msgid "Load previous entry upon date selection?"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:229
+msgid ""
+"If enabled, and data exists, then the user will be asked whether they wish "
+"to load the data for the selected date chosen on the entry form."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:233
+msgid "Tab appearance"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:236
+msgid "Hide tab descriptions"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:245
+msgid "If enabled, the description text under each tab title shall be hidden"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:249
+msgid "Tab theme"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:255
+msgid "Black"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:256
+msgid "Blue"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:257
+msgid "Crystal"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:258
+msgid "Deep Blue"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:259
+msgid "Gray"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:260
+msgid "Orange"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:261
+msgid "Red"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:262
+msgid "Silver"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:263
+msgid "White"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:268
+msgid "Switching to a drop down"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:273
+msgid "pixels"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:274
+msgid ""
+"At which browser size (and below) should the tabs render as a dropdown "
+"instead"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:278 hooks.php:21
+msgid "Challenges"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:290
+msgid ""
+"If enabled, Challenge functionality shall be included within shortcodes and "
+"admin interface"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:290
+#, fuzzy
+#| msgid "Read more about calculations"
+msgid "Read more about Challenges"
+msgstr "Подробнее о рассчетах"
+
+#: admin-pages/settings/page-settings-generic.php:294
+#: admin-pages/user-data/data-user.php:134 shortcode-wt-legacy.php:111
+msgid "Photos"
+msgstr "Фотографии"
+
+#: admin-pages/settings/page-settings-generic.php:297
+msgid "Max. Photo Size?"
+msgstr "Максимальный размер фотографии?"
+
+#: admin-pages/settings/page-settings-generic.php:319
+msgid "Maximum photo size (in MB) that is allowed to be uploaded. "
+msgstr ""
+"Максимальный размер фотографии (в МБ), который разрешен для загрузки. В "
+"настоящий момент ваш сервер поддерживает до"
+
+#: admin-pages/settings/page-settings-generic.php:320
+msgid "This is used as part of Custom Fields."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:322
+msgid "View Custom Fields"
+msgstr "Добавить / Изменить данные"
+
+#: admin-pages/settings/page-settings-generic.php:327
+msgid "Number formatting"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:330
+msgid "Include thousand separator?"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:339
+msgid ""
+"If enabled, larger numbers shall be split up by commas e.g. 2,300 instead of "
+"2300"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:343
+msgid "Permissions"
+msgstr "Резрешено"
+
+#: admin-pages/settings/page-settings-generic.php:346
+msgid "Who can view and modify user data?"
+msgstr "Кто может просматривать и редактировать данные пользователей?"
+
+#: admin-pages/settings/page-settings-generic.php:352
+msgid "Administrators Only"
+msgstr "Только администратор"
+
+#: admin-pages/settings/page-settings-generic.php:353
+msgid "Editors and above"
+msgstr "Редакторы и другие"
+
+#: admin-pages/settings/page-settings-generic.php:354
+msgid "Authors and above"
+msgstr "Авторы"
+
+#: admin-pages/settings/page-settings-generic.php:356
+msgid ""
+"Specify the minimum level of user role that maybe view or edit user data."
+msgstr ""
+"Укажите минимальный уровень роли пользователя, который может просматривать "
+"или редактировать данные пользователя."
+
+#: admin-pages/settings/page-settings-generic.php:360
+msgid "Groups"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:363
+#, fuzzy
+#| msgid "Allow users to record their measurements"
+msgid "Allow user's to edit their own group?"
+msgstr "Разрешить пользователям записывать свои измерения"
+
+#: admin-pages/settings/page-settings-generic.php:372
+msgid "Birthday Emails"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:375
+#, fuzzy
+#| msgid "Enable"
+msgid "Enable?"
+msgstr "Включить"
+
+#: admin-pages/settings/page-settings-generic.php:381
+msgid ""
+"If enabled, a Happy Birthday email shall be sent to users on their birthday."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:386
+#: shortcode-wt-legacy.php:121
+msgid "Advanced"
+msgstr "Дополнительная информация"
+
+#: admin-pages/settings/page-settings-generic.php:389
+msgid "Disable plugin CSS?"
+msgstr "Отключить CSS?"
+
+#: admin-pages/settings/page-settings-generic.php:398
+msgid ""
+"If you wish to style the forms in your own way, you can use this option to "
+"disable WLT's style sheets."
+msgstr ""
+"Если вы хотите стилизовать формы по-своему, вы можете использовать эту опцию "
+"для отключения таблиц стилей WLT."
+
+#: admin-pages/settings/page-settings-generic.php:410
+msgid "Calculating daily calorie intake to lose weight"
+msgstr "Расчет ежедневного потребления калорий для похудения"
+
+#: admin-pages/settings/page-settings-generic.php:414
+msgid "Show Loss figures?"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:423
+msgid ""
+"Show loss figures to your users? For example, if your site is aimed at "
+"muscle building, you may wish not to."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:427
+#, fuzzy
+#| msgid "Female Calorie Cap"
+msgid "Female Minimum Calorie Cap"
+msgstr "Максимальная калорийность для женщин"
+
+#: admin-pages/settings/page-settings-generic.php:437
+#: admin-pages/settings/page-settings-generic.php:461
+msgid ""
+"If specified, any calorie intake suggestions below this value shall be "
+"replaced by it e.g. if Weight Tracker calculates the recommended calorie "
+"intake to lose weight at 940kcal and the safety is set to 1200kcal, then "
+"Weight Tracker has calculated a value below your limits. The safety value "
+"will replace the calculated value and set it to 1200kcal."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:437
+#: admin-pages/settings/page-settings-generic.php:447
+#: admin-pages/settings/page-settings-generic.php:461
+#: admin-pages/settings/page-settings-generic.php:470
+#: admin-pages/settings/page-settings-generic.php:555
+#: admin-pages/settings/page-settings-generic.php:657
+#: admin-pages/settings/page-settings-generic.php:669
+#: admin-pages/settings/page-settings-generic.php:720
+msgid ""
+"Please note, it may take up to 15 minutes for calculations to change (due to "
+"caching)."
+msgstr ""
+"Обратите внимание, что изменение вычислений может занимать до 15 минут ( из-"
+"за кэширования )."
+
+#: admin-pages/settings/page-settings-generic.php:441
+#, fuzzy
+#| msgid "Female Calorie Cap"
+msgid "Female Maximum Calorie Cap"
+msgstr "Максимальная калорийность для женщин"
+
+#: admin-pages/settings/page-settings-generic.php:447
+msgid ""
+"Specify a maximum value for number of daily calories allowed to achieve "
+"weight loss. As per NHS guidelines, females are set to 1400kcal by default"
+msgstr ""
+"Укажите максимальное значение для количества ежедневных калорий, позволяющих "
+"достичь потери веса. Согласно руководящим принципам NHS, для женщин по "
+"умолчанию устанавливается на 1400 ккал"
+
+#: admin-pages/settings/page-settings-generic.php:451
+#, fuzzy
+#| msgid "Male Calorie Cap"
+msgid "Male Minimum Calorie Cap"
+msgstr "Максимальная мужская калорийность"
+
+#: admin-pages/settings/page-settings-generic.php:464
+#, fuzzy
+#| msgid "Male Calorie Cap"
+msgid "Male Maximum Calorie Cap"
+msgstr "Максимальная мужская калорийность"
+
+#: admin-pages/settings/page-settings-generic.php:470
+msgid ""
+"Specify a maximum value for number of daily calories allowed to achieve "
+"weight loss. As per NHS guidelines, males are set to 1900kcal by default"
+msgstr ""
+"Укажите максимальное значение количества ежедневных калорий, позволяющих "
+"достичь потери веса. Согласно руководящим принципам NHS, для мужчин по "
+"умолчанию устанавливается на 1900 килокалорий"
+
+#: admin-pages/settings/page-settings-generic.php:473
+msgid "Calories to subtract"
+msgstr "Вычитаемые калории"
+
+#: admin-pages/settings/page-settings-generic.php:479
+msgid ""
+"Once the daily calorie intake to maintain weight has been established, use "
+"the following table to define how many calories should be subtracted for the "
+"user to lose weight. You have the ability to set up ranges - if the user's "
+"calorie intake figure to maintain weight lands within that range you have "
+"the ability to specify whether to subtract a fixed number of calories or a "
+"percentage of the calorie intake.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:485
+#: admin-pages/settings/page-settings-generic.php:587
+msgid "Status"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:486
+#: admin-pages/settings/page-settings-generic.php:588
+msgid "Apply to"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:487
+#: admin-pages/settings/page-settings-generic.php:589
+msgid "From (Kcal)"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:488
+#: admin-pages/settings/page-settings-generic.php:590
+msgid "To (Kcal)"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:489
+#, fuzzy
+#| msgid "Calories to subtract"
+msgid "Fixed calories / percentage to subtract"
+msgstr "Вычитаемые калории"
+
+#: admin-pages/settings/page-settings-generic.php:490
+#: admin-pages/settings/page-settings-generic.php:592
+msgid "Fixed / Percentage"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:534
+#: admin-pages/settings/page-settings-generic.php:636
+#, fuzzy
+#| msgid "Female Calorie Cap"
+msgid "Fixed Calories"
+msgstr "Максимальная калорийность для женщин"
+
+#: admin-pages/settings/page-settings-generic.php:537
+#: admin-pages/settings/page-settings-generic.php:639
+msgid "Everyone"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:539
+#: admin-pages/settings/page-settings-generic.php:641
+#, fuzzy
+#| msgid "Female"
+msgid "Females Only"
+msgstr "Женский"
+
+#: admin-pages/settings/page-settings-generic.php:541
+#: admin-pages/settings/page-settings-generic.php:643
+msgid "Males Only"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:546
+#: admin-pages/settings/page-settings-generic.php:648
+#, fuzzy
+#| msgid "Stats disabled"
+msgid "Disabled"
+msgstr "Статистика отключена"
+
+#: admin-pages/settings/page-settings-generic.php:555
+#: admin-pages/settings/page-settings-generic.php:657
+msgid ""
+"Please note, there is no validation around these ranges. Each range will be "
+"considered and the first successful match shall be applied - others will be "
+"ignored"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:561
+#, fuzzy
+#| msgid "Calculating daily calorie intake to lose weight"
+msgid "Calculating daily calorie intake to gain weight"
+msgstr "Расчет ежедневного потребления калорий для похудения"
+
+#: admin-pages/settings/page-settings-generic.php:565
+msgid "Show Gain figures?"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:571
+msgid ""
+"Show gain figures to your users? For example, if your site is aimed at "
+"weight loss only, you may wish not to."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:575
+#, fuzzy
+#| msgid "Calories to subtract"
+msgid "Calories to add"
+msgstr "Вычитаемые калории"
+
+#: admin-pages/settings/page-settings-generic.php:581
+msgid ""
+"Once the daily calorie intake to maintain weight has been established, use "
+"the following table to define how many calories should be subtracted for the "
+"user to gain weight. You have the ability to set up ranges - if the user's "
+"calorie intake figure to maintain weight lands within that range you have "
+"the ability to specify whether to add a fixed number of calories or a "
+"percentage of the calorie intake.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:591
+msgid "Fixed calories / percentage to add"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:663
+#: admin-pages/user-data/data-user.php:188
+#: admin-pages/user-data/data-user.php:200
+msgid "Macronutrient Calculator"
+msgstr "Калькулятор нутриентов"
+
+#: admin-pages/settings/page-settings-generic.php:667
+#, fuzzy
+#| msgid "Gain weight"
+msgid "Percentages per aim"
+msgstr "Набрать вес"
+
+#: admin-pages/settings/page-settings-generic.php:669
+msgid ""
+"For each aim, specify how Macronutrients should be split when calculated."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:675
+msgid "Proteins"
+msgstr "Белки"
+
+#: admin-pages/settings/page-settings-generic.php:676
+msgid "Carbohydrates"
+msgstr "Углеводов"
+
+#: admin-pages/settings/page-settings-generic.php:677
+msgid "Fats"
+msgstr "Жиры"
+
+#: admin-pages/settings/page-settings-generic.php:701
+#, fuzzy
+#| msgid "Macronutrient Calculator"
+msgid "Macronutrient Calculator: Meals"
+msgstr "Калькулятор нутриентов"
+
+#: admin-pages/settings/page-settings-generic.php:718
+#, fuzzy
+#| msgid "Percentage of Carbohydrates to make up a moderate diet"
+msgid "Percentage of calories to split into "
+msgstr "Количество углеводов в диете"
+
+#: admin-pages/settings/page-settings-generic.php:734
+msgid "Default chart type"
+msgstr "Тип диаграммы по умолчанию"
+
+#: admin-pages/settings/page-settings-generic.php:740
+msgid "Line Chart"
+msgstr "Линейный график"
+
+#: admin-pages/settings/page-settings-generic.php:740
+#, fuzzy
+#| msgid "Highly Recommended"
+msgid "Recommended"
+msgstr "Настоятельно рекомендуем"
+
+#: admin-pages/settings/page-settings-generic.php:741
+msgid "Bar Chart"
+msgstr "Гистограмма"
+
+#: admin-pages/settings/page-settings-generic.php:747
+msgid "Display gridlines?"
+msgstr "Отображать сетку?"
+
+#: admin-pages/settings/page-settings-generic.php:756
+#, fuzzy
+#| msgid "If enabled, gridlines will be displayed on the Graph canvas."
+msgid "If enabled, grid lines will be displayed on charts."
+msgstr "Если включено, на графике будут отображаться линии сетки."
+
+#: admin-pages/settings/page-settings-generic.php:760
+#, fuzzy
+#| msgid "Maximum points per graph"
+msgid "Maximum points per chart"
+msgstr "Максимум точек на графике"
+
+#: admin-pages/settings/page-settings-generic.php:773
+msgid ""
+"Specifies the maximum number of data points displayed on charts (this does "
+"not effect admin)."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:778
+#, fuzzy
+#| msgid "Weight colour?"
+msgid "Weight colour"
+msgstr "Цвет веса?"
+
+#: admin-pages/settings/page-settings-generic.php:781
+#, fuzzy
+#| msgid ""
+#| "If enabled, enter a HEX colour code to use for the Weight history line / "
+#| "bar border on graph."
+msgid ""
+"If enabled, enter a HEX colour code to use for the Weight history line / bar "
+"border on chart."
+msgstr ""
+"Если включено, мы можете выбрать цветовой код HEX, который будет "
+"использоваться для границы линии веса / границы графика на графике."
+
+#: admin-pages/settings/page-settings-generic.php:785
+#, fuzzy
+#| msgid "Target line colour?"
+msgid "Target line colour"
+msgstr "Цвет линии цели"
+
+#: admin-pages/settings/page-settings-generic.php:788
+#, fuzzy
+#| msgid ""
+#| "If enabled, enter a HEX colour code to use for the Target line on graph."
+msgid ""
+"If enabled, enter a HEX colour code to use for the Target line on chart."
+msgstr ""
+"Если включено, мы можете выбрать цветовой код HEX, который будет "
+"использоваться для линии желаемого веса на графике."
+
+#: admin-pages/settings/page-settings-generic.php:797
+msgid "Text colour"
+msgstr "Цвет текста"
+
+#: admin-pages/settings/page-settings-generic.php:800
+#, fuzzy
+#| msgid "Enter a HEX colour code to use for text displayed on the graph."
+msgid "Enter a HEX colour code to use for text displayed on the chart."
+msgstr "Введите HEX цвет для текста, отображаемого на графике."
+
+#: admin-pages/settings/page-settings-generic.php:808
+msgid "Font Family"
+msgstr "Семейство Шрифтов"
+
+#: admin-pages/settings/page-settings-generic.php:811
+#, fuzzy
+#| msgid ""
+#| "Specify one or more fonts that should be used when rendering text on the "
+#| "graph. Separate multiple fonts with a comma. Leave blank to use the "
+#| "default."
+msgid ""
+"Specify one or more fonts that should be used when rendering text on the "
+"chart. Separate multiple fonts with a comma. Leave blank to use the default."
+msgstr ""
+"Укажите один или несколько шрифтов, которые должны использоваться для "
+"визуализации текста на графике. Разделите несколько шрифтов запятой. "
+"Оставьте поле пустым, чтобы использовать значение по умолчанию."
+
+#: admin-pages/settings/page-settings-generic.php:816
+#, fuzzy
+#| msgid "View Custom Fields"
+msgid "Custom Field Options"
+msgstr "Добавить / Изменить данные"
+
+#: admin-pages/settings/page-settings-generic.php:820
+msgid "Field / Question or Abbreviation"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:831
+msgid ""
+"When displaying a custom field on a chart, which value should be displayed "
+"in the chart's legend? The field question or abbreviation."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:836
+msgid "Line Chart Options"
+msgstr "Опции линейного графика"
+
+#: admin-pages/settings/page-settings-generic.php:840
+msgid "Bezier Curve?"
+msgstr "Кривая Базье?"
+
+#: admin-pages/settings/page-settings-generic.php:851
+#, fuzzy
+#| msgid "If enabled, lines between points on a line graph will be curved"
+msgid "If enabled, lines between points on a line chart will be curved"
+msgstr "Если включено, линии между точками на линейном графике будут изогнуты"
+
+#: admin-pages/settings/page-settings-generic.php:855
+msgid "Point thickness"
+msgstr "Толщина точки"
+
+#: admin-pages/settings/page-settings-generic.php:871
+#, fuzzy
+#| msgid "Specifies the point thickness on a line chart."
+msgid "Specifies the point thickness on a line chart. Set to 0 to hide points."
+msgstr "Определяет толщину точки на линейной диаграмме."
+
+#: admin-pages/settings/page-settings-generic.php:875
+msgid "Add a fill under weight line?"
+msgstr "Добавить строку под весом?"
+
+#: admin-pages/settings/page-settings-generic.php:886
+msgid "If enabled, a fill colour will be added under the weight line."
+msgstr ""
+"Если эта опция включена, под линией веса будет отображаться цвет заливки."
+
+#: admin-pages/settings/page-settings-generic.php:890
+msgid "Weight Fill Colour"
+msgstr "Цвет заливки веса"
+
+#: admin-pages/settings/page-settings-generic.php:893
+msgid ""
+"If enabled, enter a HEX colour code to use for the fill colour under the "
+"weight line."
+msgstr ""
+"Если включено, мы можете выбрать цветовой код HEX, который будет "
+"использоваться для цвета заливки под линией веса."
+
+#: admin-pages/settings/page-settings-generic.php:897
+msgid "Weight Fill Opacity"
+msgstr "Прозрачность заливки веса?"
+
+#: admin-pages/settings/page-settings-generic.php:909
+msgid "Specifies the opacity of the fill colour under the weight line."
+msgstr "Указывает прозрачность цвета заливки под линией веса."
+
+#: admin-pages/settings/page-settings-generic.php:914
+msgid "Bar Chart Options"
+msgstr "Настройки гистограммы"
+
+#: admin-pages/settings/page-settings-generic.php:918
+msgid "Weight fill colour?"
+msgstr "Цвет заливки веса?"
+
+#: admin-pages/settings/page-settings-generic.php:921
+#, fuzzy
+#| msgid ""
+#| "If enabled, enter a HEX colour code to use for filling the Weight bars on "
+#| "the graph."
+msgid ""
+"If enabled, enter a HEX colour code to use for filling the Weight bars on "
+"the chart."
+msgstr ""
+"Если включено, мы можете выбрать цветовой код HEX, который будет "
+"использоваться для заливки веса на графике."
+
+#: admin-pages/settings/page-settings-generic.php:932 hooks.php:27
+#: shortcode-wt.php:432
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin-pages/settings/page-settings-generic.php:935
+msgid "Enable email notifications"
+msgstr "Включить оповещения"
+
+#: admin-pages/settings/page-settings-generic.php:947
+msgid "Email addresses to notify"
+msgstr "Email адрес для оповещений"
+
+#: admin-pages/settings/page-settings-generic.php:953
+msgid ""
+"Specify one or more email addresses to be notified. Seperate multiple emails "
+"with a comma."
+msgstr ""
+"Укажите один или несколько адресов электронной почты, которые будут "
+"уведомлены. Разделяйте несколько электронных адресов запятой."
+
+#: admin-pages/settings/page-settings-generic.php:957
+#, fuzzy
+#| msgid "their weight / measurements for "
+msgid "New weight / custom field entries"
+msgstr "их вес / измерения для"
+
+#: admin-pages/settings/page-settings-generic.php:966
+#, fuzzy
+#| msgid ""
+#| "Receive notifications when a member adds a new weight / measurement entry."
+msgid ""
+"Receive notifications when a member adds a new weight / custom field entry."
+msgstr ""
+"Получать уведомления, когда пользователь добавляет новую запись веса / "
+"измерения."
+
+#: admin-pages/settings/page-settings-generic.php:970
+#, fuzzy
+#| msgid "Edited weight / measurement entries"
+msgid "Edited weight / custom field entries"
+msgstr "Измененные записи веса / измерения"
+
+#: admin-pages/settings/page-settings-generic.php:979
+#, fuzzy
+#| msgid ""
+#| "Receive notifications when a member edits an existing weight / "
+#| "measurement entry."
+msgid ""
+"Receive notifications when a member edits an existing weight / custom field "
+"entry."
+msgstr ""
+"Получать уведомления, когда участник редактирует существующую запись веса / "
+"измерения."
+
+#: admin-pages/settings/page-settings-generic.php:983
+msgid "New / updated targets"
+msgstr "Новые / обновленные цели"
+
+#: admin-pages/settings/page-settings-generic.php:992
+msgid "Receive notifications when a member adds / edits their target."
+msgstr ""
+"Получать уведомления, когда участник добавляет / редактирует свою цель."
+
+#: admin-pages/settings/page-settings-generic.php:996
+msgid "Include user's email address?"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1005
+msgid "Include the user's email address within the email body."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1009
+msgid "Include Weight Summary?"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1018
+msgid ""
+"Add additional weight summary information into the email e.g. start weight, "
+"previous weight, difference between both, difference between current weight "
+"and start weight, etc."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1022
+msgid "Templates"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1024
+msgid ""
+"Email templates are stored within the database and can be edited in the "
+"Email Template manager"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1026
+msgid "Email Template Manager"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1035
+msgid "Webhooks/Slack/Zapier"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1037
+msgid ""
+"Push data to third party applications when a user adds/updates weight "
+"entries or updates their target."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1038
+#, fuzzy
+#| msgid "Read more about calculations"
+msgid "Read more about Webhooks/Slack/Zapier"
+msgstr "Подробнее о рассчетах"
+
+#: admin-pages/settings/page-settings-generic.php:1051
+msgid "If set to Yes, data will be fired to the specified endpoints."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1055
+msgid "Endpoint URLs"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1066
+msgid ""
+"Specify one or more endpoints that data should be pushed to. If the endpoint "
+"is a determined to be Slack URL then a message shall be posted within the "
+"given Slack channel. All other endpoints will receive a JSON object "
+"representing the data."
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1067
+#: admin-pages/settings/page-settings-generic.php:1128
+msgid "Read more at "
+msgstr "Подробнее на"
+
+#: admin-pages/settings/page-settings-generic.php:1073
+#, fuzzy
+#| msgid "Number of weight entries"
+msgid "Send data for weight entries?"
+msgstr "Количество записей веса"
+
+#: admin-pages/settings/page-settings-generic.php:1082
+msgid ""
+"When a user adds/updates a weight entry, should data be fired to the "
+"endpoint(s)?"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1086
+msgid "Send data for target updates?"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1095
+msgid ""
+"When a user updates their target, should data be fired to the endpoint(s)?"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1099
+msgid "Include admin updates?"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1108
+msgid ""
+"Should changes made by admins (via the admin screens) cause data to be fired "
+"to the endpoints?"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1114
+msgid "Form Handlers"
+msgstr ""
+
+#: admin-pages/settings/page-settings-generic.php:1117
+#, fuzzy
+#| msgid "Enable Gravity Forms"
+msgid "Process Gravity Forms"
+msgstr "Включить гравитационные формы"
+
+#: admin-pages/settings/page-settings-generic.php:1127
+#, fuzzy
+#| msgid ""
+#| "Examine Gravity Form submissions for weight and measurement data. If "
+#| "found, create a Weight Entry for the user currently logged in."
+msgid ""
+"Examine Gravity Form submissions for weight and custom fields. If found, "
+"create a Weight Entry for the user currently logged in."
+msgstr ""
+"Ознакомьтесь с установкой гравитационных форм для веса и измерений. Если "
+"хотите, создайте окно контроля веса для пользователя, который в настоящий "
+"только что вошел в систему."
+
+#: admin-pages/settings/page-settings-groups.php:23
+#, fuzzy
+#| msgid "Manage User Data"
+msgid "Manage User Groups"
+msgstr "Управление данными пользователей"
+
+#: admin-pages/settings/page-settings-groups.php:26
+msgid ""
+"Assign your users to groups - this will allow you to group members together "
+"and calculate the weight difference for entire groups."
+msgstr ""
+
+#: admin-pages/settings/page-settings-groups.php:27
+#, fuzzy
+#| msgid "Read more at "
+msgid "Read more about Groups"
+msgstr "Подробнее на"
+
+#: admin-pages/settings/page-settings-groups.php:30
+#, fuzzy
+#| msgid "Add a new weight"
+msgid "Add a new group"
+msgstr "Добавьте новый вес"
+
+#: admin-pages/settings/page-settings-groups.php:45
+#, fuzzy
+#| msgid "Existing photo"
+msgid "Existing groups"
+msgstr "Существующие фотографии"
+
+#: admin-pages/user-data/data-add-edit-entry.php:15
+#: admin-pages/user-data/data-edit-target.php:17
+#: admin-pages/user-data/data-photos.php:17
+msgid "There was an issue loading this page"
+msgstr "При загрузке этой странице возникла проблема."
+
+#: admin-pages/user-data/data-add-edit-entry.php:41
+msgid "Add / Edit an entry"
+msgstr "Добавить / Изменить данные"
+
+#: admin-pages/user-data/data-add-edit-entry.php:54
+msgid "A Pro license is required to add / edit a weight entry."
+msgstr ""
+
+#: admin-pages/user-data/data-edit-target.php:37
+msgid "Edit user's target"
+msgstr "Изменить цель пользователя"
+
+#: admin-pages/user-data/data-edit-target.php:48
+msgid ""
+"A user's target weight can be cleared by setting the value to 0 or leaving "
+"blank."
+msgstr ""
+
+#: admin-pages/user-data/data-edit-target.php:51
+msgid "A Pro license is required to set a user's target weight."
+msgstr "Не забудьте ввести свой желаемый вес"
+
+#: admin-pages/user-data/data-groups.php:37
+msgid "View Group"
+msgstr ""
+
+#: admin-pages/user-data/data-groups.php:39
+msgid "user(s)"
+msgstr ""
+
+#: admin-pages/user-data/data-groups.php:45
+#, fuzzy
+#| msgid "Existing photo"
+msgid "Edit group name"
+msgstr "Существующие фотографии"
+
+#: admin-pages/user-data/data-groups.php:49
+msgid "Edit"
+msgstr ""
+
+#: admin-pages/user-data/data-groups.php:56
+#, fuzzy
+#| msgid "Enable Gravity Forms"
+msgid "All Groups"
+msgstr "Включить гравитационные формы"
+
+#: admin-pages/user-data/data-groups.php:62
+msgid "The group could not be found"
+msgstr ""
+
+#: admin-pages/user-data/data-notes.php:44 core-forms.php:221
+#: core-forms.php:468 core-tables.php:35
+msgid "Notes"
+msgstr "Заметки"
+
+#: admin-pages/user-data/data-notes.php:45
+#, fuzzy
+#| msgid "No photos could be found for this user."
+msgid "There are currently no notes for this user."
+msgstr "Фотографии этого пользователя не найдены."
+
+#: admin-pages/user-data/data-notes.php:79
+#, fuzzy
+#| msgid "An error occurred while trying to save the user's preferences."
+msgid "An error occurred when attempting to delete the note."
+msgstr "Произошла ошибка при сохранении настроек пользователя."
+
+#: admin-pages/user-data/data-photos.php:29
+msgid "User's photos"
+msgstr "Фото пользователей"
+
+#: admin-pages/user-data/data-photos.php:38
+#: admin-pages/user-data/data-user.php:142
+msgid "This user has uploaded "
+msgstr "Этот пользователь загрузил"
+
+#: admin-pages/user-data/data-photos.php:43
+#: admin-pages/user-data/data-user.php:151
+msgid "No photos could be found for this user."
+msgstr "Фотографии этого пользователя не найдены."
+
+#: admin-pages/user-data/data-photos.php:55
+#: admin-pages/user-data/data-user.php:163
+msgid "Add and enable a Photo Custom Field"
+msgstr "Добавить / Изменить данные"
+
+#: admin-pages/user-data/data-photos.php:56
+#: admin-pages/user-data/data-user.php:164
+msgid "to allow a users to upload photos of their progress"
+msgstr "чтобы пользователь мог загружать фотографии своего прогресса"
+
+#: admin-pages/user-data/data-photos.php:63
+#: admin-pages/user-data/data-user-edit-settings.php:38
+#: admin-pages/user-data/data-user.php:113
+#: admin-pages/user-data/data-user.php:171
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro для"
+
+#: admin-pages/user-data/data-photos.php:64
+msgid "to allow a user to upload photos of their progress"
+msgstr "чтобы пользователь мог загружать фотографии своего прогресса"
+
+#: admin-pages/user-data/data-search-results.php:11
+#: admin-pages/user-data/data-search-results.php:18
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: admin-pages/user-data/data-search-results.php:36
+msgid "results were found for"
+msgstr "Результаты не найдены для:"
+
+#: admin-pages/user-data/data-search-results.php:44
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: admin-pages/user-data/data-search-results.php:45
+msgid "Email"
+msgstr "Emai"
+
+#: admin-pages/user-data/data-search-results.php:46
+msgid "Start Weight"
+msgstr "Начальный вес"
+
+#: admin-pages/user-data/data-search-results.php:47 components.php:217
+msgid "Latest Weight"
+msgstr "Последний вес"
+
+#: admin-pages/user-data/data-search-results.php:48 components.php:400
+msgid "Target Weight"
+msgstr "Желаемый вес"
+
+#: admin-pages/user-data/data-search-results.php:49
+#, fuzzy
+#| msgid "Difference from start"
+msgid "Diff. from Start Weight"
+msgstr "Разница от начала"
+
+#: admin-pages/user-data/data-search-results.php:61
+msgid "No users were found for the given search criteria:"
+msgstr "По заданным критерием пользователей не найдено:"
+
+#: admin-pages/user-data/data-search-results.php:66
+msgid "No search terms were specified"
+msgstr "Не указаны условия поиска"
+
+#: admin-pages/user-data/data-summary.php:20
+msgid "Summary"
+msgstr "Резюме"
+
+#: admin-pages/user-data/data-summary.php:75
+msgid "Are you sure you wish to remove all user data?"
+msgstr "Вы уверены, что хотите удалить все пользовательские данные?"
+
+#: admin-pages/user-data/data-summary.php:82
+msgid "Quick Stats"
+msgstr "Быстрая статистика"
+
+#: admin-pages/user-data/data-summary.php:106
+msgid "No. of WordPress users"
+msgstr "Количество пользователей WordPress."
+
+#: admin-pages/user-data/data-summary.php:108
+msgid "No. of Weight Entries"
+msgstr "Количество записей веса."
+
+#: admin-pages/user-data/data-summary.php:110
+msgid "No. of Target Entries"
+msgstr "Количество записанных целей."
+
+#: admin-pages/user-data/data-summary.php:112
+msgid "refreshed every 15 minutes"
+msgstr "Обновлять каждые 15 минут"
+
+#: admin-pages/user-data/data-summary.php:126
+msgid "View all data"
+msgstr "Посмотреть все данные"
+
+#: admin-pages/user-data/data-summary.php:130
+msgid "View all entries"
+msgstr "Посмотреть все данные"
+
+#: admin-pages/user-data/data-summary.php:140
+msgid "Export all data"
+msgstr "Экспорт всех данных"
+
+#: admin-pages/user-data/data-summary.php:142
+#: admin-pages/user-data/data-summary.php:146
+#, fuzzy
+#| msgid "View All Data"
+msgid "All Data"
+msgstr "Посмотреть все данные"
+
+#: admin-pages/user-data/data-summary.php:144
+msgid "To CSV"
+msgstr "В CSV"
+
+#: admin-pages/user-data/data-summary.php:148
+msgid "To JSON"
+msgstr "В JSON"
+
+#: admin-pages/user-data/data-summary.php:158
+msgid "Delete Data"
+msgstr "Удалить данные"
+
+#: admin-pages/user-data/data-summary.php:162
+msgid "Delete data for ALL users"
+msgstr "Удалить данные ВСЕХ пользователей"
+
+#: admin-pages/user-data/data-summary.php:183
+msgid "League table for those that have lost the most"
+msgstr "Таблица лидеров для тех, кто похудел больше всех"
+
+#: admin-pages/user-data/data-summary.php:183
+msgid "League Table for those that have gained the most"
+msgstr "Таблица лидеров для тех, кто набрал больше всех"
+
+#: admin-pages/user-data/data-summary.php:204
+msgid ""
+"Please note: For performance reasons, this table only will update every "
+"hour. Click the following button to manually update."
+msgstr ""
+
+#: admin-pages/user-data/data-summary.php:208
+#: admin-pages/user-data/data-summary.php:319
+msgid "Regenerate these stats"
+msgstr "Восстановить эти характеристики"
+
+#: admin-pages/user-data/data-summary.php:215
+msgid "Show who has gained the most"
+msgstr "Показать тех, кто набрал больше остальных"
+
+#: admin-pages/user-data/data-summary.php:215
+msgid "Show who has lost the most"
+msgstr "Показать тех, кто сбросил больше остальных"
+
+#: admin-pages/user-data/data-summary.php:243
+msgid "All entries"
+msgstr "Все данные"
+
+#: admin-pages/user-data/data-summary.php:260
+msgid "Show 100 recent entries"
+msgstr "Показать 100 последних записей"
+
+#: admin-pages/user-data/data-summary.php:268
+#, fuzzy
+#| msgid "Show 100 recent entries"
+msgid "Show 500 recent entries"
+msgstr "Показать 100 последних записей"
+
+#: admin-pages/user-data/data-summary.php:275
+msgid "Show all entries"
+msgstr "Показать все данные"
+
+#: admin-pages/user-data/data-summary.php:276
+msgid "slow!"
+msgstr ""
+
+#: admin-pages/user-data/data-summary.php:284
+#: admin-pages/user-data/data-view-all.php:69
+#, fuzzy
+#| msgid "View Custom Fields"
+msgid "Include Custom Fields (Slower)"
+msgstr "Добавить / Изменить данные"
+
+#: admin-pages/user-data/data-summary.php:284
+#: admin-pages/user-data/data-view-all.php:69
+#, fuzzy
+#| msgid "View Custom Fields"
+msgid "Hide Custom Fields (Quicker)"
+msgstr "Добавить / Изменить данные"
+
+#: admin-pages/user-data/data-summary.php:304
+msgid "Weight change by group"
+msgstr ""
+
+#: admin-pages/user-data/data-summary.php:320
+#, fuzzy
+#| msgid "View all data"
+msgid "View / Edit"
+msgstr "Посмотреть все данные"
+
+#: admin-pages/user-data/data-user-edit-settings.php:26
+msgid "Edit user preferences"
+msgstr "Изменить настройки пользователя"
+
+#: admin-pages/user-data/data-user-edit-settings.php:39
+msgid "to save changes to your user's settings"
+msgstr ""
+
+#: admin-pages/user-data/data-user.php:27 hooks.php:243
+msgid "The preferences for this user have been saved."
+msgstr "Настройки этого пользователя сохранены."
+
+#: admin-pages/user-data/data-user.php:33
+msgid "The cache for this user has been deleted."
+msgstr "Кэш для этого пользователя успешно удален"
+
+#: admin-pages/user-data/data-user.php:114
+msgid "to view the a chart of the user's weight entries."
+msgstr ""
+
+#: admin-pages/user-data/data-user.php:146
+msgid "View all photos"
+msgstr "Посмотреть все фото"
+
+#: admin-pages/user-data/data-user.php:172
+msgid ""
+"to allow a user to upload photos of their progress. Before a user can upload "
+"photos, you must add one or more custom fields"
+msgstr ""
+
+#: admin-pages/user-data/data-user.php:199
+#: admin-pages/user-data/data-user.php:228
+#: admin-pages/user-data/data-user.php:275
+msgid "Upgrade to Pro Plus"
+msgstr "Обновить до Pro Plus"
+
+#: admin-pages/user-data/data-user.php:201
+#, fuzzy
+#| msgid ""
+#| "to view the user's suggested Macronutrient intake based on their "
+#| "recommended calorie intake"
+msgid ""
+"view the user's suggested Macronutrient intake based on their recommended "
+"calorie intake"
+msgstr ""
+"посмотреть рекомендуемое количество нутриентов на основе рекомендуемой "
+"калорийности"
+
+#: admin-pages/user-data/data-user.php:217
+#: admin-pages/user-data/data-user.php:229
+msgid "Daily calorie needs"
+msgstr "Ежедневная потребность в калориях"
+
+#: admin-pages/user-data/data-user.php:230
+#, fuzzy
+#| msgid ""
+#| "to view the user's daily calorie intake required to either maintain or "
+#| "lose weight (Harris Benedict formula)"
+msgid ""
+"view the user's daily calorie intake required to either maintain or lose "
+"weight (Harris Benedict formula)"
+msgstr ""
+"для просмотра ежедневного количества потребляемых калорий, необходимого для "
+"поддержания или снижения веса (формула Харриса Бенедикта)"
+
+#: admin-pages/user-data/data-user.php:263
+#, fuzzy
+#| msgid "Delete existing data"
+msgid "Delete ALL existing awards"
+msgstr "Удалить существующие данные"
+
+#: admin-pages/user-data/data-user.php:267
+msgid ""
+"Are you sure you wish to remove all awards for this user? Note, when the "
+"user next enters a weight the awards will be re-calculated."
+msgstr ""
+
+#: admin-pages/user-data/data-user.php:277
+msgid "view and issue awards based upon users meeting your certain goals"
+msgstr ""
+
+#: admin-pages/user-data/data-user.php:279
+msgid "Modify your awards"
+msgstr ""
+
+#: admin-pages/user-data/data-user.php:293
+msgid "Entries for this user"
+msgstr "Записи этого пользователя"
+
+#: admin-pages/user-data/data-view-all.php:11
+#: admin-pages/user-data/data-view-all.php:23
+msgid "View All Data"
+msgstr "Посмотреть все данные"
+
+#: admin-pages/user-data/data-view-all.php:37
+msgid "Number of WordPress users"
+msgstr "Количество пользователей WordPress"
+
+#: admin-pages/user-data/data-view-all.php:39
+msgid "Number of weight entries"
+msgstr "Количество записей веса"
+
+#: admin-pages/user-data/data-view-all.php:41
+msgid "Number of targets entered"
+msgstr "Количество введенных целей"
+
+#: admin-pages/user-data/data-view-all.php:44
+msgid "Export to CSV"
+msgstr "Экспорт в CSV"
+
+#: admin-pages/user-data/data-view-all.php:46
+msgid "Export to JSON"
+msgstr "Экспорт в JSON"
+
+#: admin-pages/user-data/data-view-all.php:51
+msgid ""
+"For performance reasons, the following table shall be restricted to a "
+"maximum of 5000 entries. For more data, please view individual user records."
+msgstr ""
+
+#: ajax.php:174 core-forms.php:142 core-tables.php:33
+msgid "Date"
+msgstr "Дата"
+
+#: ajax.php:175
+msgid "Module"
+msgstr ""
+
+#: ajax.php:176
+msgid "Message"
+msgstr ""
+
+#: components.php:49
+msgid "Gender"
+msgstr "Пол"
+
+#: components.php:55
+msgid "Aim"
+msgstr "Цель"
+
+#: components.php:61
+msgid "Activity Level"
+msgstr "Уровень активности"
+
+#: components.php:128 components.php:773 components.php:818
+msgid "Missing data"
+msgstr "Недостающие данные"
+
+#: components.php:129
+msgid "Latest vs Start"
+msgstr ""
+
+#: components.php:171 components.php:239 components.php:339 components.php:490
+#: components.php:564 components.php:587 components.php:631
+#, fuzzy
+#| msgid "No data found"
+msgid "No data"
+msgstr "Нет данных"
+
+#: components.php:200
+msgid "The difference between your latest weight and previous."
+msgstr ""
+
+#: components.php:251
+#, fuzzy
+#| msgid "Latest Weight"
+msgid "Latest / Previous"
+msgstr "Последний вес"
+
+#: components.php:274
+#, fuzzy
+#| msgid "No. of Entries"
+msgid "No. of awards"
+msgstr "Нет записей"
+
+#: components.php:323
+#, fuzzy
+#| msgid "View all"
+msgid "Latest Award"
+msgstr "Посмотреть все"
+
+#: components.php:362
+#, fuzzy
+#| msgid "Lose weight"
+msgid "Previous Weight"
+msgstr "Снижение веса"
+
+#: components.php:378 components.php:418 components.php:421 components.php:450
+#, fuzzy
+#| msgid "No target set"
+msgid "Not set"
+msgstr "Нет цели"
+
+#: components.php:385
+msgid "Targets not enabled in settings"
+msgstr ""
+
+#: components.php:413
+msgid "Height"
+msgstr "Рост"
+
+#: components.php:473
+#, fuzzy
+#| msgid "Start Weight"
+msgid "Starting Weight"
+msgstr "Начальный вес"
+
+#: components.php:486
+msgid "No target set"
+msgstr "Нет цели"
+
+#: components.php:487
+#, fuzzy
+#| msgid "Set Target"
+msgid "Latest vs Target"
+msgstr "Установить цель"
+
+#: components.php:500
+#, fuzzy
+#| msgid "No of entries"
+msgid "No entries"
+msgstr "Нет записей"
+
+#: components.php:532
+msgid "The difference between your latest weight and target."
+msgstr ""
+
+#: components.php:575
+#, fuzzy
+#| msgid "No of entries"
+msgid "No. entries"
+msgstr "Нет записей"
+
+#: components.php:593
+#, fuzzy
+#| msgid "Calories to subtract"
+msgid "Calories for meeting aim"
+msgstr "Вычитаемые калории"
+
+#: components.php:596
+#, fuzzy
+#| msgid "Calories to subtract"
+msgid "Calories for maintaining"
+msgstr "Вычитаемые калории"
+
+#: components.php:599
+#, fuzzy
+#| msgid "Calories to subtract"
+msgid "Calories for gain"
+msgstr "Вычитаемые калории"
+
+#: components.php:602
+#, fuzzy
+#| msgid "Calories to subtract"
+msgid "Calories for loss"
+msgstr "Вычитаемые калории"
+
+#: components.php:642
+#, fuzzy
+#| msgid "No. of Weight Entries"
+msgid "No. weight entries"
+msgstr "Количество записей веса."
+
+#: components.php:670
+msgid "Tracking for"
+msgstr ""
+
+#: components.php:671
+msgid "days"
+msgstr ""
+
+#: components.php:686
+msgid "Set DoB"
+msgstr ""
+
+#: components.php:687
+#, fuzzy
+#| msgid "License missing"
+msgid "DoB missing"
+msgstr "Ожидание лицензии"
+
+#: components.php:704
+msgid "Age"
+msgstr ""
+
+#: components.php:752 functions.php:961
+#, fuzzy
+#| msgid "Login now"
+msgid "Login"
+msgstr "Войти сейчас"
+
+#: components.php:782
+msgid "What is BMI?"
+msgstr ""
+
+#: components.php:785
+#, fuzzy
+#| msgid "Body Mass Index"
+msgid "Body Mass Index (BMI)"
+msgstr "Индекс массы тела"
+
+#: components.php:786
+msgid ""
+"The BMI (Body Mass Index) is used by the medical profession to quickly "
+"determine a person’s weight in regard to their height. From a straight "
+"forward calculation the BMI factor can be gained and may be used to "
+"determine if a person is underweight, of normal weight, overweight or obese."
+msgstr ""
+"ИМТ (индекс массы тела) используется в медицине для определения нормального "
+"веса человека в зависимости от роста. При прямом вычислении коэффициент ИМТ "
+"может использоваться для определения того, имеет ли человек недостаточный, "
+"нормальный, избыточный вес или ожирение."
+
+#: components.php:800
+#, fuzzy
+#| msgid "Settings"
+msgid "Starting BMI"
+msgstr "Настройки"
+
+#: components.php:800
+msgid "Current BMI"
+msgstr "Текущий ИМТ"
+
+#: components.php:826
+msgid "What is BMR?"
+msgstr ""
+
+#: components.php:829
+#, fuzzy
+#| msgid "BMR (Basal Metabolic Rate)"
+msgid "Basal Metabolic Rate (BMR)"
+msgstr "БОВ (Базовый обмен веществ)"
+
+#: components.php:830
+msgid ""
+"BMR is short for Basal Metabolic Rate. The Basal Metabolic Rate is the "
+"number of calories required to keep your body functioning at rest, also "
+"known as your metabolism. We calculate your BMR using formulas provided by "
+"www.diabetes.co.uk."
+msgstr ""
+"БОВ обозначает скорость базового обмена веществ. Скорость базового обмена "
+"веществ - это количество калорий, необходимых для поддержания "
+"работоспособности вашего тела, также известная как ваш метаболизм. Мы "
+"вычисляем Ваш БОВ, используя формулы, предоставленные www.diabetes.co.uk."
+
+#: components.php:842
+#, fuzzy
+#| msgid "Settings"
+msgid "Starting BMR"
+msgstr "Настройки"
+
+#: components.php:842
+#, fuzzy
+#| msgid "Current BMI"
+msgid "Current BMR"
+msgstr "Текущий ИМТ"
+
+#: components.php:867
+msgid "Name"
+msgstr "Имя"
+
+#: components.php:1068
+#, fuzzy
+#| msgid "Delete Cache for this user"
+msgid "Search for a user..."
+msgstr "Очистить кэш этого пользователя"
+
+#: components.php:1077
+#, fuzzy
+#| msgid "You need to be logged in to set your target."
+msgid "You need to be logged in to search for users."
+msgstr "Вы должны войти, чтобы поставить цель"
+
+#: components.php:1108
+#, fuzzy
+#| msgid "Clear Target"
+msgid "Clear Screen"
+msgstr "Очистить цель"
+
+#: components.php:1108
+msgid "Clear / Scan Another"
+msgstr ""
+
+#: components.php:1155
+#, fuzzy
+#| msgid "Weight Difference"
+msgid "Total weight difference (between previous/latest)"
+msgstr "Разница в весе"
+
+#: components.php:1156
+#, fuzzy
+#| msgid "Weight Difference"
+msgid "Total weight difference (between start/latest)"
+msgstr "Разница в весе"
+
+#: converters.php:113 converters.php:135 converters.php:196
+#: core-charting.php:73 functions.php:1628 functions.php:1634
+msgid "lbs"
+msgstr "Фунты"
+
+#: converters.php:135 converters.php:184 core-forms.php:193
+msgid "st"
+msgstr "ст"
+
+#: core-charting.php:29
+#, fuzzy
+#| msgid "No photos could be found for this user."
+msgid "No entries could be found for this user."
+msgstr "Фотографии этого пользователя не найдены."
+
+#: core-charting.php:57
+msgid "Error. You have disabled all data sets from rendering."
+msgstr ""
+
+#: core-charting.php:149
+msgid "Target"
+msgstr "Цель"
+
+#: core-charting.php:296
+#, fuzzy
+#| msgid "User Information"
+msgid "Additional Fields"
+msgstr "Информация о пользователе"
+
+#: core-forms.php:54
+msgid "The selected entry no longer exists."
+msgstr ""
+
+#: core-forms.php:112
+#, fuzzy
+#| msgid "Notes"
+msgid "Note"
+msgstr "Заметки"
+
+#: core-forms.php:113
+msgid ""
+"Data has previously been entered for this date and will be replaced if this "
+"form is submitted."
+msgstr ""
+
+#: core-forms.php:115
+#, fuzzy
+#| msgid "Delete existing photo"
+msgid "Load the existing data."
+msgstr "Удалить фотографию"
+
+#: core-forms.php:125
+msgid "Please correct the following:"
+msgstr ""
+
+#: core-forms.php:158
+msgid "Your target weight is"
+msgstr "Ваш желаемый вес"
+
+#: core-forms.php:158
+msgid "The user's target weight is currently"
+msgstr "Желаемый вес пользователя в настоящее время."
+
+#: core-forms.php:202
+#, fuzzy
+#| msgid "lbs"
+msgid "lb"
+msgstr "Фунты"
+
+#: core-forms.php:235
+msgid "Set Target"
+msgstr "Установить цель"
+
+#: core-forms.php:235
+msgid "Save Entry"
+msgstr "Сохранить запись"
+
+#: core-forms.php:257
+msgid "Clear Target"
+msgstr "Очистить цель"
+
+#: core-forms.php:293 form-handler.php:63
+#, fuzzy
+#| msgid "Your settings have been saved!"
+msgid "Your entry has been successfully saved."
+msgstr "Ваши настройки сохранены!"
+
+#: core-forms.php:301
+#, fuzzy
+#| msgid "Target Weight"
+msgid "Target weight"
+msgstr "Желаемый вес"
+
+#: core-forms.php:304
+#, fuzzy
+#| msgid "Add a weight entry"
+msgid "Edit an existing entry"
+msgstr "Добавить данные веса"
+
+#: core-forms.php:306
+#, fuzzy
+#| msgid "Add a weight entry"
+msgid "Add a new weight entry"
+msgstr "Добавить данные веса"
+
+#: core-forms.php:309
+#, fuzzy
+#| msgid "Display dates in the following formats:"
+msgid "Complete the following form"
+msgstr "Показывать дату в следующем формате:"
+
+#: core-forms.php:496 core-forms.php:655
+#, fuzzy
+#| msgid "Please enter a valid figure for Kg"
+msgid "Please select a value for"
+msgstr "Пожалуйста, введите корректный вес"
+
+#: core.php:14
+#, fuzzy
+#| msgid "Please enter a value between 0-13 for pounds"
+msgid "Please enter a value between 0-13.99 for pounds"
+msgstr "Пожалуйста, введите значение от 0 до 13 для фунтов"
+
+#: core.php:15
+#, fuzzy
+#| msgid "Please enter a value between 0-13 for pounds"
+msgid "Please enter a value between 1 and 5000 for pounds"
+msgstr "Пожалуйста, введите значение от 0 до 13 для фунтов"
+
+#: core.php:21
+msgid "Are you sure you wish to clear your target weight?"
+msgstr "Вы уверены, что хотите стереть свой желаемый вес?"
+
+#: core.php:24
+#, fuzzy
+#| msgid "Please enter a value between 0-13 for pounds"
+msgid "Please enter a value between 1 and 5000 for Kg"
+msgstr "Пожалуйста, введите значение от 0 до 13 для фунтов"
+
+#: core.php:25
+#, fuzzy
+#| msgid "Please enter a value between 0-13 for pounds"
+msgid "Please enter a value between 1 and 5000 for Stones"
+msgstr "Пожалуйста, введите значение от 0 до 13 для фунтов"
+
+#: core.php:26
+msgid "Please enter a valid date"
+msgstr "Пожалуйста, введите корректную дату."
+
+#: core.php:27
+#, fuzzy
+#| msgid "Please confirm you wish to delete ALL your weight history"
+msgid "Please confirm that you wish to delete ALL of your user data"
+msgstr "Подтвердите, что бы хотите удалить всю историю своего веса"
+
+#: core.php:28
+msgid "Your photo must be less than "
+msgstr "Ваша фотография должна быть меньше"
+
+#: core.php:29
+msgid "Are you sure you wish to delete this entry? If so, press OK."
+msgstr "Вы уверены, что хотите удалить эту запись? если да, нажмите OK."
+
+#: core.php:49
+msgid "Please select or enter a value for height."
+msgstr "Выберите рост."
+
+#: core.php:50
+msgid "Please select or enter a value for activity level."
+msgstr "Выберите уровень активности."
+
+#: core.php:51
+msgid "Please select or enter a value for gender."
+msgstr "Выберите пол."
+
+#: core.php:52
+msgid "Please enter a valid date."
+msgstr "Пожалуйста, введите корректную дату."
+
+#: core.php:53
+msgid "Please select your aim."
+msgstr "Пожалуйста, выберите цель"
+
+#: core.php:63
+msgid "This field is required."
+msgstr "Это поле является обязательным."
+
+#: core.php:82
+msgid "Today"
+msgstr "Сегодня"
+
+#: core.php:90
+msgid ""
+"An entry has been found for this date. Would you like to load the existing "
+"entry?"
+msgstr ""
+
+#: core.php:90
+msgid "Note: Any unsaved data shall be lost!"
+msgstr ""
+
+#: deprecated.php:132
+msgid "Forearm - Left"
+msgstr "Предплечье - левое"
+
+#: deprecated.php:132
+msgid "FL"
+msgstr "Предплечье Л."
+
+#: deprecated.php:133
+msgid "Forearm - Right"
+msgstr "Предплечье - правое"
+
+#: deprecated.php:133
+msgid "FR"
+msgstr "Предплечье П."
+
+#: deprecated.php:134
+msgid "Biceps - Left"
+msgstr "Левая рука"
+
+#: deprecated.php:134
+msgid "BL"
+msgstr "Рука л."
+
+#: deprecated.php:135
+msgid "Biceps - Right"
+msgstr "Правая рука"
+
+#: deprecated.php:135
+msgid "BR"
+msgstr "Рука п."
+
+#: deprecated.php:136
+msgid "Calf - Left"
+msgstr "Левая голень"
+
+#: deprecated.php:136
+msgid "CL"
+msgstr "Икра Л."
+
+#: deprecated.php:137
+msgid "Calf - Right"
+msgstr "Правая голень"
+
+#: deprecated.php:137
+msgid "CR"
+msgstr "Икра П."
+
+#: deprecated.php:138
+msgid "Thigh - Left"
+msgstr "Бедро - Левое"
+
+#: deprecated.php:138
+msgid "TL"
+msgstr "Бедро (Л)"
+
+#: deprecated.php:139
+msgid "Thigh - Right"
+msgstr "Бедро - Правое"
+
+#: deprecated.php:139
+msgid "TR"
+msgstr "Бедро (П)"
+
+#: deprecated.php:140
+msgid "Waist"
+msgstr "Талия"
+
+#: deprecated.php:140
+msgid "W"
+msgstr "Талия"
+
+#: deprecated.php:141
+msgid "Bust / Chest"
+msgstr "Объем груди"
+
+#: deprecated.php:141
+msgid "BC"
+msgstr "Грудь"
+
+#: deprecated.php:142
+msgid "Shoulders"
+msgstr "Плечи"
+
+#: deprecated.php:142
+msgid "S"
+msgstr "Плечи"
+
+#: deprecated.php:143
+msgid "Buttocks"
+msgstr "Ягодицы"
+
+#: deprecated.php:143
+msgid "B"
+msgstr "Ягодицы"
+
+#: deprecated.php:144
+msgid "Hips"
+msgstr "Таз"
+
+#: deprecated.php:144
+msgid "HI"
+msgstr "Бедра"
+
+#: deprecated.php:145
+msgid "Navel"
+msgstr "Линия пупка"
+
+#: deprecated.php:145
+msgid "NA"
+msgstr "Пупок"
+
+#: deprecated.php:146
+msgid "Neck"
+msgstr "Шея"
+
+#: deprecated.php:146
+msgid "NE"
+msgstr "Линия пупка"
+
+#: form-handler.php:25
+#, fuzzy
+#| msgid "No photos could be found for this user."
+msgid "No user hash could be found"
+msgstr "Фотографии этого пользователя не найдены."
+
+#: form-handler.php:32
+#, fuzzy
+#| msgid "No photos were found."
+msgid "No user ID has been found"
+msgstr "Фотографий не найдено."
+
+#: form-handler.php:37
+msgid "The given user hash did not match the logged in user"
+msgstr ""
+
+#: form-handler.php:52
+#, fuzzy
+#| msgid "An error occurred while saving your data!"
+msgid "An error occurred while saving your data"
+msgstr "Произошла ошибка при сохранении ваших данных!"
+
+#: functions.php:69
+msgid "The following MySQL tables are missing for this plugin"
+msgstr "Для этого плагина отсутствуют следующие таблицы MySQL"
+
+#: functions.php:197
+msgid "View all weeks"
+msgstr "Посмотреть все недели"
+
+#: functions.php:207
+msgid "View Week"
+msgstr "Посмотреть неделю"
+
+#: functions.php:207
+msgid "to"
+msgstr "до"
+
+#: functions.php:891
+msgid "Read more about calculations"
+msgstr "Подробнее о рассчетах"
+
+#: functions.php:935
+msgid "Your modifications have been saved"
+msgstr "Ваши изменения сохранены"
+
+#: functions.php:1014
+#, fuzzy
+#| msgid "You must be logged in to edit your settings."
+msgid "You must be logged in to view or edit your data."
+msgstr "Для изменения настроек необходимо войти в систему."
+
+#: functions.php:1159
+#, fuzzy
+#| msgid "Upgrade to Pro Plus for"
+msgid "Upgrade to Pro Plus and get more features!"
+msgstr "Обновить до Pro Plus для"
+
+#: functions.php:1160
+msgid ""
+"Upgrade to Pro Plus version of this plugin to get additional features like "
+"Challenges, Harris Benedict, BMR, Macronutrients and much more!"
+msgstr ""
+
+#: functions.php:1162
+msgid "Upgrade Weight Tracker and get more features!"
+msgstr ""
+
+#: functions.php:1163
+#, fuzzy
+#| msgid ""
+#| "Upgrade to the Pro version of this plugin to view, edit and delete your "
+#| "user's weight entries"
+msgid ""
+"Upgrade to the latest Pro or Pro Plus version of this plugin to manipulate "
+"your user's data, add custom fields, BMR, Macronutrients and much more!"
+msgstr ""
+"Обновите до Pro версии плагин для просмотра, редактирования и удаления "
+"данных веса ваших пользователей"
+
+#: functions.php:1171
+#, fuzzy
+#| msgid "Read more at "
+msgid "Read more and upgrade"
+msgstr "Подробнее на"
+
+#: functions.php:1188
+#, fuzzy
+#| msgid "Read more and Upgrade to Pro / Pro Plus Version"
+msgid "To view this data/shortcode, you need to upgrade."
+msgstr "Обновить до Pro версии"
+
+#: functions.php:1190
+#, fuzzy
+#| msgid "Upgrade"
+msgid "Upgrade now"
+msgstr "Обновить"
+
+#: functions.php:1458 functions.php:1631
+msgid "Kg"
+msgstr "Кг"
+
+#: functions.php:1634
+msgid "St"
+msgstr "Ст"
+
+#: hooks.php:15
+#, fuzzy
+#| msgid "Manage User Data"
+msgid "User Data"
+msgstr "Управление данными пользователей"
+
+#: hooks.php:16
+#, fuzzy
+#| msgid "Manage User Data"
+msgid "User Groups"
+msgstr "Управление данными пользователей"
+
+#: hooks.php:24
+msgid "Your License"
+msgstr "Ваша лицензия"
+
+#: hooks.php:34
+msgid "Help & Log"
+msgstr ""
+
+#: hooks.php:244
+msgid "An error occurred while trying to save the user's preferences."
+msgstr "Произошла ошибка при сохранении настроек пользователя."
+
+#: hooks.php:266 shortcode-wt.php:382
+#, fuzzy
+#| msgid "View weight entries"
+msgid "Weight entries"
+msgstr "Посмотреть записи веса"
+
+#: license.php:100
+#, fuzzy
+#| msgid "Weight Loss Tracker"
+msgid "Weight Tracker License"
+msgstr "Weight Loss Tracker"
+
+#: license.php:101
+#, fuzzy
+#| msgid "Your license has been applied!"
+msgid "Your license expires in"
+msgstr "Ваша лицензия принята!"
+
+#: license.php:103
+msgid "days. Please renew your license as soon as possible"
+msgstr ""
+
+#: license.php:243
+msgid "License missing"
+msgstr "Ожидание лицензии"
+
+#: license.php:250
+msgid "Could not decode / verify license"
+msgstr "Не удалось проверить / подтвердить лицензию"
+
+#: license.php:255
+msgid "Invalid license hash"
+msgstr "Недопустимый Хэш лицензии"
+
+#: license.php:260
+msgid ""
+"This license doesn't appear to be for this site (no match on site hash)."
+msgstr ""
+"Эта лицензия не предназначена для данного сайта ( хэш сайта не совпадает )."
+
+#: license.php:268
+msgid "This license has expired."
+msgstr "Срок действия лицензии истек."
+
+#: license.php:331
+msgid "None"
+msgstr "Нет"
+
+#: license.php:341
+msgid "Yearly Pro"
+msgstr "Ежегодная Pro"
+
+#: license.php:344
+msgid "Pro Plus"
+msgstr "Pro Plus"
+
+#: meal-tracker.php:27
+#, fuzzy
+#| msgid "Weight Tracker Debug Log"
+msgid "Weight Tracker Record"
+msgstr "Weight Tracker Рекорд"
+
+#: setup-wizard.php:16
+msgid "Welcome to"
+msgstr ""
+
+#: setup-wizard.php:18
+msgid "You're almost there, but a wizard might help you setup the plugin"
+msgstr ""
+
+#: setup-wizard.php:86
+msgid ""
+"If require plugin modifications to Weight Tracker, or need a new plugin "
+"built, or perhaps you need a developer to help you with your website then "
+"please don't hesitiate get in touch!"
+msgstr ""
+
+#: setup-wizard.php:87
+msgid "We provide fixed priced quotes."
+msgstr ""
+
+#: setup-wizard.php:102
+msgid ""
+"Why not check out our sister plugin Meal Tracker. Allow your user's to track "
+"their meals and calorie intake too!"
+msgstr ""
+
+#: setup-wizard.php:103
+msgid "Get Meal Tracker Now"
+msgstr ""
+
+#: setup-wizard.php:104
+#, fuzzy
+#| msgid "WordPress Record"
+msgid "from WordPress.org"
+msgstr "Запись WordPress"
+
+#: setup-wizard.php:105
+#, fuzzy
+#| msgid "Upgrade to Pro"
+msgid "Upgrade to Premium"
+msgstr "Обновить до Pro для"
+
+#: setup-wizard.php:106
+msgid "Any questions, email@yeken.uk"
+msgstr ""
+
+#: setup-wizard.php:118
+#, php-format
+msgid ""
+"Use the following coupon code to receive 50% off when upgrading from Pro to "
+"Pro Plus. Simply apply it during the checkout process."
+msgstr ""
+
+#: setup-wizard.php:119
+msgid "Coupon"
+msgstr ""
+
+#: shortcode-wt-legacy.php:45
+#, fuzzy
+#| msgid "This shortcode can only be placed once on a page / post."
+msgid ""
+"This shortcode can only be placed once on a page / post. To disable this "
+"check, try: [wt disable-second-check=true]"
+msgstr ""
+"Этот короткий код может быть размещен только один раз на странице / записи"
+
+#: shortcode-wt-legacy.php:52 shortcode-wt.php:55
+msgid "You need to be logged in to record your weight."
+msgstr "Вы должны войти в систему, чтобы записать свой вес."
+
+#: shortcode-wt-legacy.php:71 shortcode-wt.php:151
+#, fuzzy
+#| msgid "Your settings have been saved!"
+msgid "Your settings have been successfully saved!"
+msgstr "Ваши настройки сохранены!"
+
+#: shortcode-wt-legacy.php:73 shortcode-wt.php:153
+#, fuzzy
+#| msgid "Your weight history has been deleted!"
+msgid "Your data has successfully been deleted."
+msgstr "Выша история веса была удалена!"
+
+#: shortcode-wt-legacy.php:95
+msgid "Overview"
+msgstr "Главная"
+
+#: shortcode-wt-legacy.php:96
+msgid "Chart and add a new entry"
+msgstr "Диаграмма и добавление новых записей"
+
+#: shortcode-wt-legacy.php:100
+#, fuzzy
+#| msgid "Weight History"
+msgid "History"
+msgstr "История веса"
+
+#: shortcode-wt-legacy.php:101
+msgid "View all of your entries"
+msgstr "Посмотреть все Ваши данные"
+
+#: shortcode-wt-legacy.php:101
+#, fuzzy
+#| msgid "View all of your entries"
+msgid "View your latest entries"
+msgstr "Посмотреть все Ваши данные"
+
+#: shortcode-wt-legacy.php:112
+msgid "View a gallery of your photos"
+msgstr "Посмотреть все Ваши фотографии"
+
+#: shortcode-wt-legacy.php:122
+#, fuzzy
+#| msgid "View BMI, BMR and suggested Calorie and Macronutrient intake"
+msgid "BMI, BMR, Calories and Macronutrients"
+msgstr "Посмотреть ИМТ, БОВ, рекомендуемое количество калорий и нутриентов"
+
+#: shortcode-wt-legacy.php:131
+msgid "Preferences"
+msgstr "Личная информация"
+
+#: shortcode-wt-legacy.php:132
+#, fuzzy
+#| msgid "Customise this tool and tell us a little more about you"
+msgid "Customise this tool for you"
+msgstr "Расскажите немного о Вас, чтобы мы могли дать подробные рекомендации"
+
+#: shortcode-wt-legacy.php:228
+msgid "Weight History"
+msgstr "История веса"
+
+#: shortcode-wt-legacy.php:245
+#, fuzzy
+#| msgid "There is no data for this week, please try selecting another:"
+msgid "No data could be found for this week, please try selecting another:"
+msgstr "За эту неделю нет данных, пожалуйста, выберите другую."
+
+#: shortcode-wt-legacy.php:251
+msgid "You haven't entered any weight data yet."
+msgstr "Вы еще не указали данные своего веса"
+
+#: shortcode-wt-legacy.php:320
+msgid "Add a weight entry"
+msgstr "Добавить данные веса"
+
+#: shortcode-wt-legacy.php:325
+msgid "In a chart"
+msgstr "На диаграмме"
+
+#: shortcode-wt-legacy.php:337
+#, fuzzy, php-format
+#| msgid "A graph will appear once several weights have been entered."
+msgid "A graph shall appear when %d or more weight entries have been entered."
+msgstr ""
+"График появится после того, как Вы введете несколько значений Вашего веса."
+
+#: shortcode-wt.php:105
+msgid "Editing"
+msgstr ""
+
+#: shortcode-wt.php:175
+msgid "View Group Weight Loss for today"
+msgstr ""
+
+#: shortcode-wt.php:385
+#, fuzzy
+#| msgid "View all user entries in tabular and chart format."
+msgid "View in tabular format"
+msgstr "Посмотреть все записи пользователя в виде таблицы и диаграммы."
+
+#: shortcode-wt.php:410
+#, fuzzy
+#| msgid "Your target weight is"
+msgid "Your target"
+msgstr "Ваш желаемый вес"
+
+#: shortcode-wt.php:445
+#, fuzzy
+#| msgid "Delete existing data"
+msgid "Delete your existing data"
+msgstr "Удалить существующие данные"
+
+#: shortcode-wt.php:464
+msgid "Messages"
+msgstr ""
+
+#: shortcode-wt.php:477
+#, fuzzy
+#| msgid "Add a weight entry"
+msgid "Add a new entry"
+msgstr "Добавить данные веса"
+
+#: shortcode-wt.php:511
+#, fuzzy
+#| msgid "No of entries"
+msgid "Your entries"
+msgstr "Нет записей"
+
+#: shortcode-wt.php:529
+#, fuzzy
+#| msgid "Latest Weight"
+msgid "Latest Photo"
+msgstr "Последний вес"
+
+#: shortcode-wt.php:535
+#, fuzzy
+#| msgid "Select a photo"
+msgid "Oldest Photo"
+msgstr "Выбрать фото"
+
+#: shortcode-wt.php:544
+#, fuzzy
+#| msgid "View a gallery of your photos"
+msgid "All of your photos"
+msgstr "Посмотреть все Ваши фотографии"
+
+#: shortcode-wt.php:590
+#, fuzzy
+#| msgid "Suggested Calorie Intake"
+msgid "Learn more about suggested calorie intakes"
+msgstr "Рекомендуемое количество калорий"
+
+#: shortcode-wt.php:591
+msgid ""
+"Once we know your BMR (the number of calories to keep you functioning at "
+"rest), we can go on to give you suggestions on how to spread your calorie "
+"intake across the day. Firstly we split the figures into daily calorie "
+"intake to maintain weight and daily calorie intake to lose weight. Daily "
+"calorie intake to lose weight is calculated based on NHS advice – they "
+"suggest to lose 1 – 2lbs a week you should subtract 600 calories from your "
+"BMR. The two daily figures can be further broken down by recommending how to "
+"split calorie intake across the day i.e. breakfast, lunch, dinner and snacks."
+msgstr ""
+"Как только мы узнаем ваш БОВ (количество калорий, расходуемых в состоянии "
+"покоя), мы можем дать вам рекомендации о том, как распределить потребление "
+"калорий в течение дня. Во-первых, мы разделили цифры на ежедневное "
+"потребление калорий для поддержания веса и ежедневное потребление калорий "
+"для похудения. Ежедневное потребление калорий для похудения рассчитывается "
+"на основе рекомендаций NHS - чтобы терять 1 кг в неделю, вы должны вычесть "
+"600 калорий из вашего ИМТ. Ниже представлено оптимальное распределение "
+"калорий в течение дня, то есть на завтрак, обед, ужин и перекусы."
+
+#: shortcode-wt.php:596
+msgid "Suggested Calorie Intake"
+msgstr "Рекомендуемое количество калорий"
+
+#: shortcode-wt.php:606
+#, fuzzy
+#| msgid "Read more about calculations"
+msgid "Learn more about macronutrients"
+msgstr "Подробнее о рассчетах"
+
+#: shortcode-wt.php:607
+#, fuzzy
+#| msgid ""
+#| "With calories calculated, the we can recommend how those calories should "
+#| "be split into Fats, Carbohydrates and Proteins.  Based on 2010 Dietary "
+#| "Guidelines for Americans we have split it in the following manner:"
+msgid ""
+"With calories calculated, the we can recommend how those calories should be "
+"split into Fats, Carbohydrates and Proteins."
+msgstr ""
+"При подсчете калорий, мы можем рекомендовать, как эти калории должны быть "
+"разделены на жиры, углеводы и белки. Основываясь на диетических "
+"рекомендациях 2010 года для американцев, мы разделили его следующим образом: "
+
+#: shortcode-wt.php:613
+msgid "Macronutrients"
+msgstr "Нутриенты"
+
+#~ msgid "Legacy Pro License"
+#~ msgstr "Обновить лицензию до Pro"
+
+#~ msgid ""
+#~ "Our licensing has model has changed, Prior to September 2017 it used to "
+#~ "be a one off payment that enabled the Pro features of the plugin. This is "
+#~ "still the case and any old licenses will still be honoured."
+#~ msgstr ""
+#~ "У нашего лицензирования изменилась модель. До сентября 2017 года это был "
+#~ "один платеж, который включал функции Pro плагина. Это все еще так, и все "
+#~ "старые лицензии будут по-прежнему соблюдаться."
+
+#~ msgid "Moving to a yearly license"
+#~ msgstr "Перейти к лицензии на год"
+
+#~ msgid ""
+#~ "There is no reason to move to a yearly license - Pro features will remain "
+#~ "the same for legacy and new Pro subscriptions. However, if you were to "
+#~ "move to a yearly subscription you will be supporting the development of "
+#~ "the plugin (and I'll give you a big hug)."
+#~ msgstr ""
+#~ "Не обязательно обновлять годовую лицензию - функции Про останутся "
+#~ "прежними для устаревших и новых подписок. Однако, если Вы обновите "
+#~ "годовую подписку, Вы поддержите развитие плагина ( и я буду Вам очень "
+#~ "благодарен )."
+
+#~ msgid "Pro Plus License"
+#~ msgstr "Pro Plus лицензия"
+
+#~ msgid ""
+#~ "Of course, thank you for purchasing a Pro license - it is much "
+#~ "appreciated. As you can see below, you can further expand the features of"
+#~ msgstr ""
+#~ "Большое спасибо за покупку лицензии Pro - это очень ценно для меня. Как "
+#~ "вы можете видеть ниже, вы можете расширить функции"
+
+#~ msgid "Switch to a yearly Pro license for "
+#~ msgstr "переключиться на годовую Pro лицензию для"
+
+#~ msgid "Never"
+#~ msgstr "Никогда"
+
+#, fuzzy
+#~| msgid "Weight Tracker Debug Log"
+#~ msgid "Weight Tracker"
+#~ msgstr "Weight Tracker Рекорд"
+
+#, fuzzy
+#~| msgid "Read more about calculations"
+#~ msgid "Read more about replacing legacy licenses"
+#~ msgstr "Подробнее о рассчетах"
+
+#~ msgid "Legacy Pro"
+#~ msgstr "Обновить до Pro"
+
+#~ msgid "Percentage of Proteins to make up a moderate diet"
+#~ msgstr "Количество белков в диете"
+
+#~ msgid ""
+#~ "Please note, it may take up to 15 minutes for calorie calculations to "
+#~ "change (due to caching)."
+#~ msgstr ""
+#~ "Обратите внимание, что перерасчет калорий может занимать до 15 минут ( из-"
+#~ "за кэширования )."
+
+#~ msgid "Percentage of Carbohydrates to make up a moderate diet"
+#~ msgstr "Количество углеводов в диете"
+
+#~ msgid "Percentage of Fats to make up a moderate diet"
+#~ msgstr "Количество жиров в диете"
+
+#~ msgid "Photo"
+#~ msgstr "Фотография"
+
+#, fuzzy
+#~| msgid "User Information"
+#~ msgid "Add Photo Field"
+#~ msgstr "Информация о пользователе"
+
+#, fuzzy
+#~| msgid "User Information"
+#~ msgid "Add Text Field"
+#~ msgstr "Информация о пользователе"
+
+#, fuzzy
+#~| msgid "User Information"
+#~ msgid "Add Yes/No Field"
+#~ msgstr "Информация о пользователе"
+
+#~ msgid "Notifications"
+#~ msgstr "Оповещения"
+
+#~ msgid "Measurements"
+#~ msgstr "Измерения"
+
+#~ msgid "Allow users to record their measurements"
+#~ msgstr "Разрешить пользователям записывать свои измерения"
+
+#~ msgid "3rd Party"
+#~ msgstr "Сторонние сервисы"
+
+#~ msgid "Should y Axes start at 0?"
+#~ msgstr "Должна ли ось начинаться с 0?"
+
+#~ msgid ""
+#~ "If enabled, y Axes shall start at 0. Otherwise, they are automatically "
+#~ "calculated."
+#~ msgstr ""
+#~ "Если включено, линии оси будут начинаться с 0. В противном случае они "
+#~ "вычисляются автоматически."
+
+#, fuzzy
+#~| msgid "If enabled, gridlines will be displayed on the Graph canvas."
+#~ msgid "If enabled, data points shall be drawn on the chart."
+#~ msgstr "Если включено, на графике будут отображаться линии сетки."
+
+#~ msgid "New weight / measurement entries"
+#~ msgstr "Новый вес / ввод измерений"
+
+#, fuzzy
+#~| msgid "Last 100 entries"
+#~ msgid "Last 500 entries"
+#~ msgstr "Последние 100 записей"
+
+#~ msgid "Last 100 entries"
+#~ msgstr "Последние 100 записей"
+
+#~ msgid "User Search"
+#~ msgstr "Поиск пользователя"
+
+#~ msgid ""
+#~ "Please ensure the values for Proteins, Carbohydrates and Fats (within "
+#~ msgstr ""
+#~ "Пожалуйста, убедитесь, что значения для белков, углеводов и жиров "
+#~ "( находятся в пределах"
+
+#~ msgid "settings"
+#~ msgstr "настройки"
+
+#~ msgid ") have been specified and total 100%."
+#~ msgstr ") были указаны и составили 100%."
+
+#~ msgid "Read more and Upgrade to Pro / Pro Plus Version"
+#~ msgstr "Обновить до Pro версии"
+
+#~ msgid "added"
+#~ msgstr "добавлена"
+
+#~ msgid "updated"
+#~ msgstr "обновлен"
+
+#~ msgid "their target to"
+#~ msgstr "их цель"
+
+#, fuzzy
+#~| msgid "View weight entries"
+#~ msgid "Weight entry"
+#~ msgstr "Посмотреть записи веса"
+
+#, fuzzy
+#~| msgid "added"
+#~ msgid "added for"
+#~ msgstr "добавлена"
+
+#, fuzzy
+#~| msgid "updated"
+#~ msgid "updated for"
+#~ msgstr "обновлен"
+
+#, fuzzy
+#~| msgid "Not Specified"
+#~ msgid "Not specified"
+#~ msgstr "Не указывать"
+
+#, fuzzy
+#~| msgid "Weight colour?"
+#~ msgid "Weight Summary"
+#~ msgstr "Цвет веса?"
+
+#, fuzzy
+#~| msgid "Recent Weight"
+#~ msgid "Most Recent Weight"
+#~ msgstr "Недавний вес"
+
+#~ msgid "Hello"
+#~ msgstr "Здравствуйте"
+
+#, fuzzy
+#~| msgid ""
+#~| "Just a quick email to let you know that \"{displayname}\" has {mode} "
+#~| "{type}:"
+#~ msgid ""
+#~ "<p>Just a quick email to let you know that \"{displayname}\" has {mode} "
+#~ "{type}:</p>"
+#~ msgstr ""
+#~ "Просто быстрое письмо, чтобы вы знали, что \"{displayname}\" имеет {mode} "
+#~ "{type}:"
+
+#, fuzzy
+#~| msgid "{data}"
+#~ msgid "<p>{data}</p>"
+#~ msgstr "{data}"
+
+#~ msgid "Export Data"
+#~ msgstr "Экспорт данных"
+
+#~ msgid "Delete"
+#~ msgstr "Удалить"
+
+#~ msgid "User"
+#~ msgstr "Пользователь"
+
+#, fuzzy
+#~| msgid "Manage User Data"
+#~ msgid "User Group"
+#~ msgstr "Управление данными пользователей"
+
+#, fuzzy
+#~| msgid "User Information"
+#~ msgid "Additional columns"
+#~ msgstr "Информация о пользователе"
+
+#, fuzzy
+#~| msgid "To CSV"
+#~ msgid "CSV"
+#~ msgstr "В CSV"
+
+#, fuzzy
+#~| msgid "There was an issue loading this page"
+#~ msgid "There was an error loading the criteria for the export."
+#~ msgstr "При загрузке этой странице возникла проблема."
+
+#~ msgid "Difference from start"
+#~ msgstr "Разница от начала"
+
+#, fuzzy
+#~| msgid "BMR"
+#~ msgid "BMI"
+#~ msgstr "БОВ"
+
+#, fuzzy
+#~| msgid "There was an issue loading this page"
+#~ msgid "There was an issue creating the export folder: "
+#~ msgstr "При загрузке этой странице возникла проблема."
+
+#, fuzzy
+#~| msgid "There was an issue loading this page"
+#~ msgid "There was an issue creating the export file: "
+#~ msgstr "При загрузке этой странице возникла проблема."
+
+#, fuzzy
+#~| msgid "<strong>All of the features that come with a standard <a href=\""
+#~ msgid " <strong>All of the features that come with a standard <a href=\""
+#~ msgstr "<strong> Все функции, которые выводятся со стандартным <a href = \""
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Basal Metabolic Rate (BMR) calculations per user</strong>. "
+#~| "Shortcodes and extended admin screens to display a user's BMR. For "
+#~| "further information on BMR and how it is calculated visit <a href=\""
+#~ msgid ""
+#~ " <strong>Basal Metabolic Rate (BMR) calculations per user</strong>. "
+#~ "Shortcodes and extended admin screens to display a user's BMR. For "
+#~ "further information on BMR and how it is calculated visit <a href=\""
+#~ msgstr ""
+#~ "<strong> Расчет базового обмена веществ (<JD) пользователя </ strong>. "
+#~ "Штрих-коды и расширенные экраны администратора для отображения <JD "
+#~ "пользователя. Для получения дополнительной информации о БОВ и способах "
+#~ "его расчета посетите <a href = \""
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Harris Benedict formula</strong>. Shortcodes and extended admin "
+#~| "screens to a view a person's calorie intake required to maintain and "
+#~| "lose weight. For further information on Harris Benedict Formula and how "
+#~| "it is calculated visit <a href=\""
+#~ msgid ""
+#~ " <strong>Harris Benedict formula</strong>. Shortcodes and extended admin "
+#~ "screens to a view a person's calorie intake required to maintain and lose "
+#~ "weight. For further information on Harris Benedict Formula and how it is "
+#~ "calculated visit <a href=\""
+#~ msgstr ""
+#~ "<strong>Формула Харриса Бенедикта</strong>. Коротки коды и дополнительные "
+#~ "поля администратора для просмотра калорийность рациона человека, "
+#~ "необходимых для поддержания и потери веса. Для получения дополнительной "
+#~ "информации о Формуле Харриса Бенедикта и о том, как она рассчитывается, "
+#~ "посетите <a href=\""
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Recommended calorie intake per meal time</strong>. Shortcodes "
+#~| "and extended admin screens to recommend how a person should split their "
+#~| "daily calorie intake across meals. For further information on how this "
+#~| "is calculated please visit <a href=\""
+#~ msgid ""
+#~ " <strong>Recommended calorie intake per meal time</strong>. Shortcodes "
+#~ "and extended admin screens to recommend how a person should split their "
+#~ "daily calorie intake across meals. For further information on how this is "
+#~ "calculated please visit <a href=\""
+#~ msgstr ""
+#~ "<strong> Рекомендуемая калорийность приемов пищи</strong>. Короткие коды "
+#~ "и дополнительные поля администратора для рекомендаций о том, как человек "
+#~ "должен разделить ежедневное потребление калорий на приемы пищи. Для "
+#~ "получения дополнительной информации о том, как это рассчитывается, "
+#~ "пожалуйста, посетите <a href = \""
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Macronutrients Calculator</strong>. Shortcodes and extended "
+#~| "admin screens to recommend how their calorie consumption should be split "
+#~| "into fats, carbohydrates and proteins. For further information on the "
+#~| "Macronutrients Calculator and how these calculations are performed "
+#~| "please visit <a href=\""
+#~ msgid ""
+#~ " <strong>Macronutrients Calculator</strong>. Shortcodes and extended "
+#~ "admin screens to recommend how their calorie consumption should be split "
+#~ "into fats, carbohydrates and proteins. For further information on the "
+#~ "Macronutrients Calculator and how these calculations are performed please "
+#~ "visit <a href=\""
+#~ msgstr ""
+#~ "<strong>Калькулятор нутриентов</strong>. Короткие коды и дополнительные "
+#~ "поля администратора, чтобы рекомендовать, как их потребление калорий "
+#~ "должно быть разделено на жиры, углеводы и белки. Для получения "
+#~ "дополнительной информации о калькуляторе нутриентов и о том, как эти "
+#~ "вычисления выполняются, посетите <a href = \""
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Additional user preference fields</strong>. Additional user "
+#~| "preference fields and shortcodes to display them: Activity Level, Date "
+#~| "of Birth and Gender."
+#~ msgid ""
+#~ " <strong>Additional user preference fields</strong>. Additional user "
+#~ "preference fields and shortcodes to display them: Activity Level, Date of "
+#~ "Birth and Gender."
+#~ msgstr ""
+#~ "<strong> Дополнительные поля данных пользователя </ strong>. "
+#~ "Дополнительные поля пользовательских данных и короткие коды для их "
+#~ "отображения: уровень активности, дата рождения и пол."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Access your user's data.</strong> Admin can view, edit and "
+#~| "delete user data. Various tools for viewing user's graphs, tables of "
+#~| "entries, BMI, targets, weight lost / gained stats and much more."
+#~ msgid ""
+#~ " <strong>Access your user's data.</strong> Admin can view, edit and "
+#~ "delete user data. Various tools for viewing user's graphs, tables of "
+#~ "entries, BMI, targets, weight lost / gained stats and much more."
+#~ msgstr ""
+#~ "<strong> Доступ к данным пользователя. </ strong>. Администратор может "
+#~ "просматривать, редактировать и удалять пользовательские данные. Различные "
+#~ "инструменты для просмотра графиков пользователей, таблиц записей, ИМТ, "
+#~ "целей, полученных статистических данных и многое другое."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Photo Uploads</strong>. Your users can now upload photos of "
+#~| "their progress. Photos can be viewed, updated and removed by the end "
+#~| "user and administrators. Handy shortcodes are provided for displaying "
+#~| "galleries, most recent and oldest photo."
+#~ msgid ""
+#~ " <strong>Photo Custom Fields</strong>. Add one or more photo fields to "
+#~ "your weight entry forms and allow your users to upload photos of their "
+#~ "progress. Photos can be viewed, updated and removed by the end user and "
+#~ "administrators. Handy shortcodes are provided for displaying galleries, "
+#~ "most recent and oldest photo."
+#~ msgstr ""
+#~ "<strong>Загрузка фотографий</strong>. Теперь ваши пользователи могут "
+#~ "загружать фотографии своего прогресса. Фотографии могут быть просмотрены, "
+#~ "обновлены и удалены пользователем и администраторами. Удобные короткие "
+#~ "коды предоставляются для отображения галерей, самой последней и самой "
+#~ "старой фотографии."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Export all data or a particular user.</strong> Export in JSON or "
+#~| "CSV format."
+#~ msgid ""
+#~ " <strong>Export all data or a particular user.</strong> Export in JSON or "
+#~ "CSV format."
+#~ msgstr ""
+#~ "<strong>Экспорт всех данных конкретного пользователя.</strong> "
+#~ "Экспортировать в JSON или CSV формате."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>BMI.</strong> Allows a user to specify their height. Once "
+#~| "specified, their BMI is displayed next to each weight entry. There is "
+#~| "also a shortcode to render the latest BMI."
+#~ msgid ""
+#~ " <strong>BMI.</strong> Allows a user to specify their height. Once "
+#~ "specified, their BMI is displayed next to each weight entry. There is "
+#~ "also a shortcode to render the latest BMI."
+#~ msgstr ""
+#~ "<strong>БОВ.</strong> Позволяет пользователям вводить свой рост. После "
+#~ "получения данных, их БОВ будет отображаться рядом с каждой записью веса. "
+#~ "Также существует короткий код для отображения последнего ИМТ."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Email notifications.</strong> Receive email notifications when a "
+#~| "person updates their target or adds / edits a weight."
+#~ msgid ""
+#~ " <strong>Email notifications.</strong> Receive email notifications when a "
+#~ "person updates their target or adds / edits a weight."
+#~ msgstr ""
+#~ "<strong>Email уведомления.</strong> Получать уведомления по электронной "
+#~ "почте, когда человек обновляет свою цель или добавляет / редактирует вес."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Overall user stats.</strong> Shortcodes that allow you to "
+#~| "display the total lost / gained for the community and another to display "
+#~| "a league table."
+#~ msgid ""
+#~ " <strong>Overall user stats.</strong> Shortcodes that allow you to "
+#~ "display the total lost / gained for the community and another to display "
+#~ "a league table."
+#~ msgstr ""
+#~ "<strong>Общая статистика пользователя.</strong> Короткие коды, которые "
+#~ "позволяют отображать общее количество потерянного / набранного веса  для "
+#~ "сообщества, а другой - отображать лидеров рейтинга."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Widgets.</strong> Widgets that allow you to display the graph "
+#~| "and quick weight entry form within any widget area."
+#~ msgid ""
+#~ " <strong>Widgets.</strong> Widgets that allow you to display the graph "
+#~ "and quick weight entry form within any widget area."
+#~ msgstr ""
+#~ "<strong>Виджеты.</strong>Виджеты, которые позволяют отображать график и "
+#~ "форму быстрого ввода веса в любой области для виджетов вашего сайта."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Chart and form Shortcodes.</strong> That allow you to display "
+#~| "the graph and quick weight entry form by placing a shortcode on any post "
+#~| "or page."
+#~ msgid ""
+#~ " <strong>Chart and form Shortcodes.</strong> That allow you to display "
+#~ "the graph and quick weight entry form by placing a shortcode on any post "
+#~ "or page."
+#~ msgstr ""
+#~ "<strong> Короткие коды диаграммы и формы. </ strong>. Это позволяет "
+#~ "отображать форму графика и быстрого ввода веса, помещая короткий код на "
+#~ "любой пост или страницу."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Progress Bar shortcode.</strong> A shortcode that visually "
+#~| "displays the logged in user's progress towards their target"
+#~ msgid ""
+#~ " <strong>Progress Bar shortcode.</strong> A shortcode that visually "
+#~ "displays the logged in user's progress towards their target"
+#~ msgstr ""
+#~ "<strong> Короткий код или виджет прогресса.</strong> Отображает прогресс "
+#~ "вошедшего в систему пользователя на путь к желаемому весу."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Reminder shortcode.</strong> A shortcode that can be used to "
+#~| "remind the user to enter their target or weight for today."
+#~ msgid ""
+#~ " <strong>Reminder shortcode.</strong> A shortcode that can be used to "
+#~ "remind the user to enter their target or weight for today."
+#~ msgstr ""
+#~ "<strong>Короткий код напоминаний.</strong> Короткий код, который можно "
+#~ "использовать, чтобы напомнить пользователю ввести свой желаемый или "
+#~ "сегодняшний вес."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Message shortcode</strong> A shortcode that allows you to "
+#~| "congratulate a user when they lose weight x number of times. It also "
+#~| "provides the opposite allowing you to provide encouragement when someone "
+#~| "gains weight."
+#~ msgid ""
+#~ " <strong>Message shortcode</strong> A shortcode that allows you to "
+#~ "congratulate a user when they lose weight x number of times. It also "
+#~ "provides the opposite allowing you to provide encouragement when someone "
+#~ "gains weight."
+#~ msgstr ""
+#~ "<strong>Коротки код сообщений</strong> Короткий код, который позволяет "
+#~ "вам поздравить пользователя, когда они теряют вес в Х раз. Также "
+#~ "поддерживает противоположное, позволяющее вам показывать сообщение, когда "
+#~ "кто-то набирает вес."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Text Shortcodes.</strong> Additional shortcodes for earliest and "
+#~| "most recent dates entered."
+#~ msgid ""
+#~ " <strong>Text Shortcodes.</strong> Additional shortcodes for earliest and "
+#~ "most recent dates entered."
+#~ msgstr ""
+#~ "<strong> Короткий код текста.</strong> Дополнительный короткий код для "
+#~ "отображения первого и последнего введенных значений."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Progress Bar shortcode / widget.</strong> Display a user's "
+#~| "progress towards their weight target."
+#~ msgid ""
+#~ " <strong>Progress Bar shortcode / widget.</strong> Display a user's "
+#~ "progress towards their weight target."
+#~ msgstr ""
+#~ "<strong> Короткий код или виджет прогресса.</strong> Отображать прогресс "
+#~ "пользователей на пути желаемому весу."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Reminder shortcode.</strong> Display a reminder to enter their "
+#~| "weight for the given day or enter a target."
+#~ msgid ""
+#~ " <strong>Reminder shortcode.</strong> Display a reminder to enter their "
+#~ "weight for the given day or enter a target."
+#~ msgstr ""
+#~ "<strong>Короткий код напоминаний.</strong> Отображение напоминания ввести "
+#~ "свой желаемый или сегодняшний вес."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Admin: View / Delete user data</strong>. Admin will be able to "
+#~| "view and delete existing user data."
+#~ msgid ""
+#~ " <strong>Admin: View / Delete user data</strong>. Admin will be able to "
+#~ "view and delete existing user data."
+#~ msgstr ""
+#~ "<strong> Admin: просмотр / удаление пользовательских данных </ strong>. "
+#~ "Администратор сможет просматривать и удалять существующие "
+#~ "пользовательские данные."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>User preferences</strong>. If enabled, the user will be able to "
+#~| "select which unit they wish to store their weight in Metric or Imperial. "
+#~| "They will also be able to specify date format and clear all their weight "
+#~| "data."
+#~ msgid ""
+#~ " <strong>User preferences</strong>. If enabled, the user will be able to "
+#~ "select which unit they wish to store their weight in Metric or Imperial. "
+#~ "They will also be able to specify date format and clear all their weight "
+#~ "data."
+#~ msgstr ""
+#~ "<strong>Предпочтения пользователей</strong>. Если включено, пользователь "
+#~ "сможет выбрать формат, в котором они будут сохранять данные в Метрический "
+#~ "или Эмперический. Они также смогут указать формат даты и очистить все "
+#~ "данные о весе."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Bar Charts</strong>. Fancy something different to a line chart? "
+#~| "The plugin will also support Bar Charts."
+#~ msgid ""
+#~ " <strong>Bar Charts</strong>. Fancy something different to a line chart? "
+#~ "The plugin will also support Bar Charts."
+#~ msgstr ""
+#~ "<strong>Гистограммы</strong>. Хотите что-то кроме линейных графиков? "
+#~ "Плагин также поддерживает гистограммы данных."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Decimals</strong>. Decimals will be allowed weight in Pounds "
+#~| "only or Kg modes."
+#~ msgid ""
+#~ " <strong>Decimals</strong>. Decimals will be allowed weight in Pounds "
+#~ "only or Kg modes."
+#~ msgstr ""
+#~ "<strong> Десятичные. </strong> Только для фунтов и килограммов будет "
+#~ "разрешен ввод веса до десятичных."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Delete existing entry</strong>. A logged in user will be able to "
+#~| "delete or edit an existing weight entry."
+#~ msgid ""
+#~ " <strong>Delete existing entry</strong>. A logged in user will be able to "
+#~ "delete or edit an existing weight entry."
+#~ msgstr ""
+#~ "<strong>Удаление записей</strong> Вошедший в систему пользователь сможет "
+#~ "удалить или изменить существующую запись веса."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Better Tables.</strong>. Data tables in front end and admin will "
+#~| "support paging and sorting."
+#~ msgid ""
+#~ " <strong>Better Tables.</strong>. Data tables in front end and admin will "
+#~ "support paging and sorting."
+#~ msgstr ""
+#~ "<strong>Лучшие страницы.</strong> Таблицы данных будут поддерживать "
+#~ "сортировку."
+
+#, fuzzy
+#~| msgid ""
+#~| "<strong>Admin: Extra Settings</strong>. Extra settings to customise the "
+#~| "plugin will be added e.g. number of plot points on graph, rows per page, "
+#~| "etc."
+#~ msgid ""
+#~ " <strong>Admin: Extra Settings</strong>. Extra settings to customise the "
+#~ "plugin will be added e.g. number of plot points on graph, rows per page, "
+#~ "etc."
+#~ msgstr ""
+#~ "<strong> Администратор: дополнительные настройки </ strong>. Возможность "
+#~ "добавления дополнительных настроек, например, количество точек графика на "
+#~ "графике, строк на странице и т. д."
+
+#~ msgid "First entry"
+#~ msgstr "Начальные данные"
+
+#~ msgid "No height"
+#~ msgstr "Нет роста"
+
+#~ msgid "Difference"
+#~ msgstr "Разница"
+
+#, fuzzy
+#~| msgid "Add / Edit a Custom Field"
+#~ msgid "Add Custom Field"
+#~ msgstr "Добавить / Изменить данные"
+
+#, fuzzy
+#~| msgid "Add / Edit an entry"
+#~ msgid "Add Award"
+#~ msgstr "Добавить / Изменить данные"
+
+#~ msgid "Are you sure you want to delete the row?"
+#~ msgstr "Вы уверены, что хотите удалить строку?"
+
+#~ msgid "Unfortunately there was an error deleting the row."
+#~ msgstr "К сожалению, произошла ошибка при удалении строки."
+
+#~ msgid "Search"
+#~ msgstr "Искать"
+
+#~ msgid ""
+#~ "Enter a user's email address, display name or username and click Search."
+#~ msgstr "Введите email, логин или имя пользователя и нажмите \"Искать\""
+
+#~ msgid "Most Recent Photo"
+#~ msgstr "Самые последние фотографии"
+
+#~ msgid "No. of photos: "
+#~ msgstr "Количество фото:"
+
+#~ msgid "View all"
+#~ msgstr "Посмотреть все"
+
+#, fuzzy
+#~| msgid "Your License Information"
+#~ msgid "User Information"
+#~ msgstr "Информация о вашей лицензии"
+
+#~ msgid "Diff. from Start"
+#~ msgstr "Разница. От начала"
+
+#~ msgid "Diff. from Target"
+#~ msgstr "Разница. До цели"
+
+#~ msgid "No height specified"
+#~ msgstr "Рост не указан"
+
+#~ msgid "Date of Birth"
+#~ msgstr "День рождения"
+
+#~ msgid "BMR"
+#~ msgstr "БОВ"
+
+#~ msgid "Add Entry"
+#~ msgstr "Добавить данные"
+
+#~ msgid "Edit Target"
+#~ msgstr "Изменить цель"
+
+#~ msgid "Delete Cache"
+#~ msgstr "Очистить кэш"
+
+#~ msgid "Delete ALL data for this user"
+#~ msgstr "Удалить все данные этого пользователя"
+
+#~ msgid "Are you sure you wish to remove the data for this user?"
+#~ msgstr "Вы уверены, что хотите удалить все данные пользователя?"
+
+#~ msgid "Back"
+#~ msgstr "Спина"
+
+#, fuzzy
+#~| msgid "WordPress Record"
+#~ msgid "WordPress Record"
+#~ msgstr "Запись WordPress"
+
+#~ msgid "Add Height for BMI"
+#~ msgstr "Добавьте рост для расчета ИМТ"
+
+#~ msgid "Underweight"
+#~ msgstr "Недостаточный вес"
+
+#~ msgid "Healthy"
+#~ msgstr "Нормальный вес"
+
+#~ msgid "Overweight"
+#~ msgstr "Избыточный вес"
+
+#~ msgid "Heavily Overweight"
+#~ msgstr "Ожирение"
+
+#, fuzzy
+#~| msgid "Female"
+#~ msgid "Female"
+#~ msgstr "Женский"
+
+#~ msgid "Male"
+#~ msgstr "Мужской"
+
+#~ msgid "Little / No Exercise"
+#~ msgstr "Низкий / нет тренировок"
+
+#~ msgid "Light Exercise"
+#~ msgstr "Легкие тренировки"
+
+#~ msgid "Moderate Exercise (3-5 days a week)"
+#~ msgstr "Регулярные тренировки (3-5 раз в неделю)"
+
+#~ msgid "Very Active (6-7 days a week)"
+#~ msgstr "Высокая активность (6-7 тренировок в неделю)"
+
+#~ msgid "Extra Active (very active & physical job)"
+#~ msgstr "Очень высокая активность (высокая активность+физическая работа)"
+
+#~ msgid "Maintain current weight"
+#~ msgstr "Поддержание текущего веса"
+
+#, fuzzy
+#~| msgid "No height"
+#~ msgid "Lose weight"
+#~ msgstr "Нет роста"
+
+#, fuzzy
+#~| msgid "Edit weight"
+#~ msgid "Gain weight"
+#~ msgstr "Изменить вес"
+
+#~ msgid "cm"
+#~ msgstr "См"
+
+#~ msgid "Not Specified"
+#~ msgstr "Не указывать"
+
+#~ msgid "Error: The user does not appear to exist"
+#~ msgstr "Ошибка: пользователь не существует"
+
+#, fuzzy
+#~| msgid "Weight"
+#~ msgid "Weight %"
+#~ msgstr "Вес"
+
+#, fuzzy
+#~| msgid "Weight unit:"
+#~ msgid "Weight change in units"
+#~ msgstr "Единица веса:"
+
+#, fuzzy
+#~| msgid "Gained"
+#~ msgid "Gain"
+#~ msgstr "Вырос"
+
+#, fuzzy
+#~| msgid "This user has uploaded "
+#~ msgid "The user has no awards"
+#~ msgstr "Этот пользователь загрузил"
+
+#, fuzzy
+#~| msgid "Your have uploaded"
+#~ msgid "You have no awards yet"
+#~ msgstr "Вы загрузили"
+
+#, fuzzy
+#~| msgid "updated"
+#~ msgid "Update"
+#~ msgstr "обновлен"
+
+#~ msgid "No Gender specified"
+#~ msgstr "Пол не указан"
+
+#~ msgid "No Date of Birth specified or too young"
+#~ msgstr "Дата рождения не указана или слишком мала"
+
+#~ msgid "No Height specified"
+#~ msgstr "Рост не указан"
+
+#~ msgid "No Weight entered"
+#~ msgstr "Вес не указан"
+
+#, fuzzy
+#~| msgid "Please select or enter a value for height."
+#~ msgid "Please ensure you enter a name for the challenge."
+#~ msgstr "Выберите рост."
+
+#, fuzzy
+#~| msgid "Read more about calculations"
+#~ msgid "Current Challenges"
+#~ msgstr "Подробнее о рассчетах"
+
+#, fuzzy
+#~| msgid "User Experience"
+#~ msgid "User Opt-in"
+#~ msgstr "Данные пользователя"
+
+#, fuzzy
+#~| msgid "Add a new weight"
+#~ msgid "Add a new challenge"
+#~ msgstr "Добавьте новый вес"
+
+#, fuzzy
+#~| msgid "Read more about calculations"
+#~ msgid "Name of challenge"
+#~ msgstr "Подробнее о рассчетах"
+
+#, fuzzy
+#~| msgid "Entries for this user"
+#~ msgid "Entries for this challenge"
+#~ msgstr "Записи этого пользователя"
+
+#, fuzzy
+#~| msgid "Stats disabled"
+#~ msgid "Challenges Disabled"
+#~ msgstr "Статистика отключена"
+
+#, fuzzy
+#~| msgid "Start Weight"
+#~ msgid "Start Date"
+#~ msgstr "Начальный вес"
+
+#, fuzzy
+#~| msgid "Date"
+#~ msgid "End Date"
+#~ msgstr "Дата"
+
+#, fuzzy
+#~| msgid "Entries for this user"
+#~ msgid "Entries to process"
+#~ msgstr "Записи этого пользователя"
+
+#, fuzzy
+#~| msgid "View all data"
+#~ msgid "View challenge data"
+#~ msgstr "Посмотреть все данные"
+
+#, fuzzy
+#~| msgid "Delete Cache"
+#~ msgid "Delete challenge"
+#~ msgstr "Очистить кэш"
+
+#, fuzzy
+#~| msgid "Start Weight"
+#~ msgid "Total Weight Loss"
+#~ msgstr "Начальный вес"
+
+#, fuzzy
+#~| msgid "No height"
+#~ msgid "% Body Weight"
+#~ msgstr "Нет роста"
+
+#, fuzzy
+#~| msgid "Weight Loss Tracker"
+#~ msgid "Weight Tracker Streaks (Weeks)"
+#~ msgstr "Weight Loss Tracker"
+
+#, fuzzy
+#~| msgid "Summary"
+#~ msgid "Sum"
+#~ msgstr "Резюме"
+
+#, fuzzy
+#~| msgid "No. of Weight Entries"
+#~ msgid "Min. Weight Entries"
+#~ msgstr "Количество записей веса."
+
+#, fuzzy
+#~| msgid "Your have uploaded"
+#~ msgid "You have been"
+#~ msgstr "Вы загрузили"
+
+#, fuzzy
+#~| msgid "Read more about calculations"
+#~ msgid "opted into all challenges"
+#~ msgstr "Подробнее о рассчетах"
+
+#, fuzzy
+#~| msgid "Read more about calculations"
+#~ msgid "opted out of all challenges"
+#~ msgstr "Подробнее о рассчетах"
+
+#, fuzzy
+#~| msgid "Display dates in the following formats:"
+#~ msgid "Display data on the front end "
+#~ msgstr "Показывать дату в следующем формате:"
+
+#~ msgid "Maintain"
+#~ msgstr "Поддержание"
+
+#~ msgid "Lose"
+#~ msgstr "Снижение"
+
+#~ msgid ""
+#~ "Please ensure all relevant data to calculate calorie intake has been "
+#~ "entered i.e. Activity Level, Date of Birth, Current Weight, Gender and "
+#~ "Height."
+#~ msgstr ""
+#~ "Убедитесь, что все соответствующие данные для расчета потребления калорий "
+#~ "были введены. Такие как уровень активности, дата рождения, текущий вес, "
+#~ "пол и рост."
+
+#~ msgid "Total"
+#~ msgstr "Всего"
+
+#~ msgid "Breakfast"
+#~ msgstr "Завтрак"
+
+#~ msgid "Lunch"
+#~ msgstr "Обед"
+
+#~ msgid "Dinner"
+#~ msgstr "Ужин"
+
+#~ msgid "Snacks"
+#~ msgstr "Перекусы"
+
+#, fuzzy
+#~| msgid "Calculating daily calorie intake to lose weight"
+#~ msgid "kcals of total calories to maintain weight"
+#~ msgstr "Расчет ежедневного потребления калорий для похудения"
+
+#~ msgid "calories for weight loss are capped at "
+#~ msgstr "калории для потери веса ограничены"
+
+#~ msgid "This can be modified within "
+#~ msgstr "Это может быть изменено с помощью"
+
+#~ msgid "Carbs"
+#~ msgstr "Углеводы"
+
+#~ msgid "Cm"
+#~ msgstr "См"
+
+#~ msgid "The user "
+#~ msgstr "Пользователь"
+
+#~ msgid "uploaded this photo of them for their entry on the"
+#~ msgstr "выложили фотографию для их записи от"
+
+#~ msgid "Photos are only visible to you and administrators. "
+#~ msgstr "Ваши фотографии видны только Вам и администрации сайта. "
+
+#~ msgid "Photos must be under"
+#~ msgstr "Размер фотографии должен быть меньше"
+
+#~ msgid "or they will silently fail to upload."
+#~ msgstr "или она не будет загружена."
+
+#, fuzzy
+#~| msgid "Add a photo"
+#~ msgid "A note about photos"
+#~ msgstr "Добавить фото"
+
+#, fuzzy
+#~| msgid "Please enter a valid figure for Kg"
+#~ msgid "Please enter a number for"
+#~ msgstr "Пожалуйста, введите корректный вес"
+
+#~ msgid "Replace photo"
+#~ msgstr "Заменить фото"
+
+#~ msgid "Existing photo for this date"
+#~ msgstr "Существующие фотографии на эту дату"
+
+#~ msgid "Delete existing photo"
+#~ msgstr "Удалить фотографию"
+
+#, fuzzy
+#~| msgid "Delete existing photo"
+#~ msgid "Existing photo"
+#~ msgstr "Удалить фотографию"
+
+#~ msgid "It doesn't look you've uploaded any photos."
+#~ msgstr "Похоже, вы не загрузили еще ни одной фотографии."
+
+#, fuzzy
+#~| msgid "No recent photo found."
+#~ msgid "No photos were found."
+#~ msgstr "Последняя фотография не найдена."
+
+#~ msgid "No recent photo found."
+#~ msgstr "Последняя фотография не найдена."
+
+#~ msgid "Don't show to public?"
+#~ msgstr "Не показывать публично?"
+
+#~ msgid ""
+#~ "If the user has uploaded this as part of their Weight Tracker progress, "
+#~ "they probably don't want it viewable on a public attachment page!"
+#~ msgstr ""
+#~ "Если пользователь загрузил это как часть своего прогресса, он, вероятно, "
+#~ "не хочет, чтобы это было в публичном доступе."
+
+#, fuzzy
+#~| msgid "Your have uploaded"
+#~ msgid "You have uploaded"
+#~ msgstr "Вы загрузили"
+
+#~ msgid "It looks like you haven't uploaded any photos yet"
+#~ msgstr "Похоже, Вы еще не загрузили ни одной фотографии"
+
+#~ msgid "BMI (Body Mass Index)"
+#~ msgstr "ИМТ (Индекс массы тела)"
+
+#~ msgid "Your current BMI is"
+#~ msgstr "Ваш ИМТ равен"
+
+#~ msgid ""
+#~ "Before we can calculate your BMI, we need your current weight and height."
+#~ msgstr ""
+#~ "Для вычисления Вашего ИМТ (индекса массы тела), нам нужен Ваш текущий вес "
+#~ "и рост."
+
+#~ msgid ""
+#~ "To allow us to calculate this, we need your latest weight, date of birth, "
+#~ "height and gender."
+#~ msgstr ""
+#~ "Для этого расчета нам необходимы Ваш последний вес, дата рождения, рост и "
+#~ "пол."
+
+#~ msgid "Your current BMR is"
+#~ msgstr "Ваш БОВ равен"
+
+#~ msgid "of calories, Fat"
+#~ msgstr ", Жиров"
+
+#~ msgid "and Protein"
+#~ msgstr "и Белков"
+
+#, fuzzy
+#~| msgid "No photos could be found for this user."
+#~ msgid "No data could be found for the user."
+#~ msgstr "Фотографии этого пользователя не найдены."
+
+#, fuzzy
+#~| msgid ""
+#~| "To use this shortcode, you must specify content between opening and "
+#~| "closing tags<br /><br />e.g. [wlt-if]something to show if IF is true[/"
+#~| "wlt-if]"
+#~ msgid ""
+#~ "To use this shortcode, you must specify content between opening and "
+#~ "closing tag e.g. [wlt-if]something to show if IF is true[/wlt-if]"
+#~ msgstr ""
+#~ "Чтобы использовать этот короткий код, вы должны указать контент между "
+#~ "открывающими и закрывающими тегами <br /> <br />, например. [wlt-if] что-"
+#~ "то показать, если IF истинно [/ wlt-if]"
+
+#~ msgid "Unfortunately the field you specified is for Pro Plus licenses only."
+#~ msgstr "К сожалению, эта функция доступна только в Pro Plus."
+
+#~ msgid "towards your target of {t}."
+#~ msgstr "пройдено до цели в {t}"
+
+#~ msgid ""
+#~ "This shortcode can not be used as Target weights have been disabled in "
+#~ "the plugin's settings."
+#~ msgstr ""
+#~ "Это короткий код не может быть использован для отображения желаемого "
+#~ "веса, он отключен в настройках плагина."
+
+#~ msgid "Please enter a target weight to see your progress."
+#~ msgstr "Пожалуйста, введите желаемый вес, чтобы увидеть свой прогресс."
+
+#~ msgid "Please add a weight entry to see your progress."
+#~ msgstr "Пожалуйста, добавьте запись веса, чтобы увидеть ваш прогресс."
+
+#~ msgid ""
+#~ "Please remember to enter your weight for today as well as your target "
+#~ "weight."
+#~ msgstr "Пожалуйста, введите свой сегодняшний вес, а также желаемый вес."
+
+#, fuzzy
+#~| msgid "Please remember to enter your weight for today."
+#~ msgid "Please remember to enter your target weight."
+#~ msgstr "Пожалуйста, не забудьте ввести свой вес на сегодня."
+
+#~ msgid "Please remember to enter your weight for today."
+#~ msgstr "Пожалуйста, не забудьте ввести свой вес на сегодня."
+
+#, fuzzy
+#~| msgid "Weight Difference"
+#~ msgid "Weight Difference"
+#~ msgstr "Разница в весе"
+
+#~ msgid "No of entries"
+#~ msgstr "Нет записей"
+
+#~ msgid ""
+#~ "The league table has not been generated yet. This is a scheduled task so "
+#~ "please check back in 15 minutes or try pressing the button below."
+#~ msgstr ""
+#~ "Таблица еще не создана. Это запланированное действие, пожалуйста зайдите "
+#~ "через 15 минут и попробуйте нажать кнопку ниже."
+
+#~ msgid "Lost"
+#~ msgstr "Похудели"
+
+#~ msgid "Gained"
+#~ msgstr "Вырос"
+
+#~ msgid "Height needed"
+#~ msgstr "Необходим рост"
+
+#~ msgid "Weight needed"
+#~ msgstr "Необходимый вес"
+
+#, fuzzy
+#~| msgid "User"
+#~ msgid "No. Users"
+#~ msgstr "Пользователь"
+
+#, fuzzy
+#~| msgid "No. of Entries"
+#~ msgid "No. Entries"
+#~ msgstr "Нет записей"
+
+#, fuzzy
+#~| msgid "No photos were found."
+#~ msgid "Group ID not found"
+#~ msgstr "Фотографий не найдено."
+
+#, fuzzy
+#~| msgid "Enable Gravity Forms"
+#~ msgid "No Group"
+#~ msgstr "Включить гравитационные формы"
+
+#, fuzzy
+#~| msgid "You must be logged in to edit your settings."
+#~ msgid "You must be logged in to edit your settings."
+#~ msgstr "Для изменения настроек необходимо войти в систему."
+
+#~ msgid "About You:"
+#~ msgstr "О Вас:"
+
+#~ msgid "Your height:"
+#~ msgstr "Ваш рост:"
+
+#~ msgid "In which unit would you like to record your weight:"
+#~ msgstr "В каком формате Вы хотите записывать свой вес:"
+
+#~ msgid "Your Gender:"
+#~ msgstr "Пол:"
+
+#~ msgid "Your Date of Birth:"
+#~ msgstr "Ваша дата рождения:"
+
+#~ msgid "Your Activity Level:"
+#~ msgstr "Уровень активности:"
+
+#~ msgid "Your aim:"
+#~ msgstr "Ваша цель"
+
+#~ msgid "About User:"
+#~ msgstr "О пользователе"
+
+#~ msgid "Height:"
+#~ msgstr "Рост:"
+
+#~ msgid "Weight unit:"
+#~ msgstr "Единица веса:"
+
+#~ msgid "Date format:"
+#~ msgstr "Формат даты:"
+
+#~ msgid "Gender:"
+#~ msgstr "Пол:"
+
+#~ msgid "Date of Birth:"
+#~ msgstr "День рождения:"
+
+#~ msgid "Activity Level:"
+#~ msgstr "Уровень активности:"
+
+#~ msgid "Aim:"
+#~ msgstr "Цель:"
+
+#~ msgid "Save Settings"
+#~ msgstr "Сохранить настройки"
+
+#~ msgid ""
+#~ "The button below allows you to clear your existing weight history. "
+#~ "Confirm:"
+#~ msgstr "Кнопка ниже позволяет очистить все данные веса. Подтвердить:"
+
+#~ msgid "DELETE ALL DATA"
+#~ msgstr "Удалить все данные"
+
+#, fuzzy
+#~| msgid "Weight Loss Tracker - Chart"
+#~ msgid "Weight Tracker - Chart"
+#~ msgstr "Weight Loss Tracker - График"
+
+#~ msgid "Display a chart to see your current progress."
+#~ msgstr "Отображение диаграммы для просмотра текущего прогресса."
+
+#, fuzzy
+#~| msgid "Maximum points per graph"
+#~ msgid "Maximum number of plot points on chart"
+#~ msgstr "Максимум точек на графике"
+
+#, fuzzy
+#~| msgid "View Custom Fields"
+#~ msgid "Hide Meta Fields (Pro)?"
+#~ msgstr "Добавить / Изменить данные"
+
+#, fuzzy
+#~| msgid "Weight Loss Tracker - Form"
+#~ msgid "Weight Tracker - Form"
+#~ msgstr "Weight Loss Tracker - Форма"
+
+#~ msgid ""
+#~ "Display a quick entry form for logged in users to record their weight for "
+#~ "today."
+#~ msgstr ""
+#~ "Отображение формы быстрого ввода  сегодняшнего веса для пользователей, "
+#~ "вошедших в систему ."
+
+#~ msgid "Your weight today"
+#~ msgstr "Ваш вес сегодня"
+
+#, fuzzy
+#~| msgid "Weight Loss Tracker - Progress Bar"
+#~ msgid "Weight Tracker - Progress Bar"
+#~ msgstr "Weight Loss Tracker - Прогресс"
+
+#~ msgid "A progress bar to indicate weight loss towards target."
+#~ msgstr ""
+#~ "Индикатор выполнения, показывающий потерю веса по направлению к цели."
+
+#, fuzzy
+#~| msgid "Weight loss progress"
+#~ msgid "Weight Progress"
+#~ msgstr "Прогресс потери веса"
+
+#~ msgid "Fix: Stones & Pounds accuracy"
+#~ msgstr "Стоуны и фунты"
+
+#~ msgid ""
+#~ "Correct accuracy for measurements entered in Stones and Pounds (only run "
+#~ "with the advice of YeKen)"
+#~ msgstr ""
+#~ "Правильная точность измерений, введенных в Стоунах и Фунты (выполняется "
+#~ "только по рекомендации YeKen)"
+
+#, no-php-format
+#~ msgid " (50% discount)"
+#~ msgstr "(50% скидка)"
+
+#, fuzzy
+#~| msgid "Enable Gravity Forms"
+#~ msgid "Enable Groups?"
+#~ msgstr "Включить гравитационные формы"
+
+#, fuzzy
+#~| msgid "Enabled"
+#~ msgid "Enabled?"
+#~ msgstr "Включить"
+
+#~ msgid "Please enter a valid figure for pounds"
+#~ msgstr "Пожалуйста, введите корректное значение для фунтов"
+
+#~ msgid "Please enter a valid figure for Stones"
+#~ msgstr "Пожалуйста, введите допустимое значение для стоунов"
+
+#, fuzzy
+#~| msgid "Display points on graph?"
+#~ msgid "Plot on graph?"
+#~ msgstr "Показывать точки на графике?"
+
+#~ msgid "Disable notifications from YeKen?"
+#~ msgstr "Отключить уведомления от YeKen?"
+
+#~ msgid ""
+#~ "Occasionally YeKen likes to display simple notifications within your "
+#~ "WordPress dashboard. Use this setting if you wish to disable them."
+#~ msgstr ""
+#~ "Иногда YeKen показывает простые уведомления в панели управления "
+#~ "WordPress. Используйте этот параметр, если захотите отключить их."
+
+#~ msgid ""
+#~ "If enabled, \"Allows points and labels to be displayed on graph. "
+#~ "<strong>Note: If using measurements</strong>, graph type will be forced "
+#~ "to Line."
+#~ msgstr ""
+#~ "Если включено, Позволяет отображать точки и метки на графике. <Strong> "
+#~ "Примечание: Если использовать измерения </ strong>, тип графика будет "
+#~ "принудительно привязан к линии."
+
+#~ msgid "If enabled, \"Allows points and labels to be displayed on graph."
+#~ msgstr "Если включено, на графике будут отображаться точки и метки."
+
+#~ msgid "You have modified data. Please refresh page."
+#~ msgstr "Вы изменили данные, пожалуйста, обновите страницу."
+
+#~ msgid "Allow Measurements?"
+#~ msgstr "Разрешить измерения?"
+
+#~ msgid "Measurement Units"
+#~ msgstr "Единицы измерения:"
+
+#~ msgid "Centimetres"
+#~ msgstr "Сантиметры"
+
+#~ msgid "Inches"
+#~ msgstr "Дюймы"
+
+#~ msgid "Default unit for recording measurements."
+#~ msgstr "Запись измерений по умолчанию."
+
+#~ msgid "Measurements mandatory?"
+#~ msgstr "Измерения обязательны?"
+
+#~ msgid "If yes, a user will be forced to complete all measurement features."
+#~ msgstr "Если да, пользователь будет обязан ввести измерения."
+
+#~ msgid "Areas of measurements"
+#~ msgstr "Области измерений"
+
+#~ msgid "Enable"
+#~ msgstr "Включить"
+
+#~ msgid "Chart Colour"
+#~ msgstr "Цвет диаграммы"
+
+#~ msgid "CM"
+#~ msgstr "СМ"
+
+#~ msgid "Measurement"
+#~ msgstr "Измерение"
+
+#~ msgid "Edit measurements"
+#~ msgstr "Изменить измерения"
+
+#~ msgid "Add measurements"
+#~ msgstr "Добавьте измерения"
+
+#~ msgid "Optional"
+#~ msgstr "По желанию"
+
+#~ msgid "Please enter a valid measurement ("
+#~ msgstr "Пожалуйста, введите корректные измерения ("
+
+#~ msgid "The plugin supports the following measurements"
+#~ msgstr "Плагин поддерживает следующие измерения"
+
+#~ msgid "H"
+#~ msgstr "Таз"
+
+#~ msgid "Saved!"
+#~ msgstr "Сохранено!"
+
+#~ msgid "No user specified (hash)"
+#~ msgstr "Пользователь не указан (хэш)"
+
+#~ msgid "No user specified"
+#~ msgstr "Пользователь не указан"
+
+#~ msgid ""
+#~ "Part of calculating the daily calorie intake to lose weight is to first "
+#~ "calculate the calorie intake to maintain existing weight. Once we have "
+#~ "this, we subtract the above figure to calculate the daily calorie intake "
+#~ "to lose weight."
+#~ msgstr ""
+#~ "Часть расчета ежедневного потребления калорий для похудения - это сначала "
+#~ "рассчитать потребление калорий для поддержания существующего веса. Как "
+#~ "только мы получим это, мы вычтем приведенную выше цифру, чтобы рассчитать "
+#~ "ежедневное потребление калорий для похудения."
+
+#, fuzzy
+#~| msgid ""
+#~| "Part of calculating the daily calorie intake to lose weight is to first "
+#~| "calculate the calorie intake to maintain existing weight. Once we have "
+#~| "this, we subtract the above figure to calculate the daily calorie intake "
+#~| "to lose weight."
+#~ msgid ""
+#~ "Part of calculating the daily calorie intake to gain weight is to first "
+#~ "calculate the calorie intake to maintain existing weight. Once we have "
+#~ "this, we add the above figure to calculate the daily calorie intake to "
+#~ "gain weight."
+#~ msgstr ""
+#~ "Часть расчета ежедневного потребления калорий для похудения - это сначала "
+#~ "рассчитать потребление калорий для поддержания существующего веса. Как "
+#~ "только мы получим это, мы вычтем приведенную выше цифру, чтобы рассчитать "
+#~ "ежедневное потребление калорий для похудения."
+
+#~ msgid "All Entries"
+#~ msgstr "Все данные"
+
+#~ msgid "Send usage data to YeKen?"
+#~ msgstr "Отправлять данные об использовании YeKen'у?"
+
+#~ msgid ""
+#~ "We would love to see how our plugin is used. By consenting, you are "
+#~ "allowing permission for the following data to be sent on a weekly basis "
+#~ "to YeKen: URL, summary of settings, count of recorded weights and "
+#~ "measurements. No user or admin data will ever be transmitted."
+#~ msgstr ""
+#~ "Нам бы очень хотелось увидеть, как используется наш плагин. Соглашаясь, "
+#~ "Вы разрешаете отправлять еженедельно следующие данные YeKen'у : URL-"
+#~ "адрес, сводку настроек, количество записанных данных веса и измерений. "
+#~ "Никакие данные пользователя или администратора никогда не будут переданы."
+
+#~ msgid "Help"
+#~ msgstr "Помощь"
+
+#~ msgid "Photos enabled?"
+#~ msgstr "Включить фотографии?"
+
+#~ msgid ""
+#~ "Allow your users to upload photos (jpg / png) of their progress alongside "
+#~ "weight entries. These are only viewable by the person that uploaded the "
+#~ "photo and administrators. All photos are stored in the media library with "
+#~ "an additional setting to hide from the attachment page / template."
+#~ msgstr ""
+#~ "Позвольте своим пользователям загружать фотографии (jpg / png) их "
+#~ "прогресса вместе с весами. Они видны только человеку, который загрузил "
+#~ "фотографию и администраторам. Все фотографии хранятся в медиа-библиотеке "
+#~ "с дополнительными настройками, чтобы скрыть их из страницы вложения / "
+#~ "шаблона."
+
+#~ msgid "Our road map"
+#~ msgstr "Наша дорожная карта"
+
+#~ msgid ""
+#~ "Interested in the future development of this plugin? Then have a peek at "
+#~ "our road map:"
+#~ msgstr ""
+#~ "Заинтересованы в дальнейшем развитии этого плагина? Тогда посмотрите нашу "
+#~ "дорожную карту:"
+
+#~ msgid "Upgrade now to Pro Plus"
+#~ msgstr "Обновить сейчас до Pro Plus"
+
+#~ msgid "Manage and view their photos."
+#~ msgstr "Контролируйте и просматривайте их фотографии."
+
+#~ msgid "Add, edit and delete user entries."
+#~ msgstr "Добавить, изменить и удалить данные пользователя"
+
+#~ msgid "Sortable and responsive tables."
+#~ msgstr "Сортируемые и отзывчивые таблицы"
+
+#~ msgid "View league tables of most lost / gained."
+#~ msgstr "Посмотреть таблицы рекордов снижения / набора веса."
+
+#~ msgid "View user stats, weight lost, recent weight, start weight, BMI, etc."
+#~ msgstr ""
+#~ "Просмотр статистики пользователя, потерянный вес, недавний вес, начальный "
+#~ "вес, ИМТ и т. д."
+
+#~ msgid "Export all or a particular user's data in CSV / JSON."
+#~ msgstr "Экспорт всех или отдельных данных пользователя в CSV / JSON."
+
+#~ msgid "Example screenshots"
+#~ msgstr "Примеры скриншотов"
+
+#~ msgid "Below are a couple of screenshots from the user data screens"
+#~ msgstr "Ниже пара скриншотов о данных пользователя"
+
+#~ msgid "Weight Loss Tracker update for"
+#~ msgstr "Weight Loss Tracker  обновить до"
+
+#~ msgid "Thank you!"
+#~ msgstr "Спасибо!"
+
+#~ msgid "No data was found for the given criteria."
+#~ msgstr "Данные по заданным критериям не найдены."
+
+#~ msgid "lbs only"
+#~ msgstr "Только фунты"
+
+#~ msgid ""
+#~ "<strong>Measurements.</strong> Support for recording measurements like "
+#~ "Hip, Waist, Leg, Bicep, etc. Displayed on charts and tables."
+#~ msgstr ""
+#~ "<strong> Измерения. </ strong> Поддержка записи измерений, таких как Таз, "
+#~ "Талия, Бедро, Рука и т. д. Отображается на диаграммах и таблицах."
+
+#~ msgid "Measurements are in"
+#~ msgstr "Измерения в"
+
+#~ msgid "Error: The User's ID was missing..."
+#~ msgstr "Ошибка: ID пользователя отсутствует..."
+
+#~ msgid "photos"
+#~ msgstr "фотографии"
+
+#~ msgid "photo"
+#~ msgstr "фото"
+
+#~ msgid "No weight data was found for the specified user."
+#~ msgstr "Данные о весе этого пользователя не найдены."
+
+#~ msgid ""
+#~ "Please remember to enter your weight and measurements for today as well "
+#~ "as your target weight."
+#~ msgstr ""
+#~ "Пожалуйста, не забудьте ввести свой сегодняшний вес и измерения, а также "
+#~ "ваш желаемый вес."
+
+#~ msgid "Please remember to enter your weight and measurements for today."
+#~ msgstr "Пожалуйста, не забудьте ввести свой сегодняшний вес и размеры."
+
+#~ msgid "In which unit would you like to record your measurements:"
+#~ msgstr "В каком формате Вы хотите записывать свои измерения:"
+
+#~ msgid "Measurements unit:"
+#~ msgstr "Единицы измерения:"
+
+#~ msgid "A pretty graph shall appear once you have recorded several weights."
+#~ msgstr ""
+#~ "Симпатичный график появится после того, как вы запишите несколько весов."
